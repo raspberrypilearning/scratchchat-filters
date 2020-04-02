@@ -6,11 +6,11 @@ You can now add controls to change the size of the sprite and also decide if the
 
 Add these blocks to make the sprite appear and disappear.
 
-~~~blocks
-when [s v] key is pressed
+~~~blocks3
+when [s v] key pressed
 show
 
-when [h v] key is pressed
+when [h v] key pressed
 hide
 ~~~
 
@@ -21,10 +21,10 @@ hide
 Now add some more blocks to change the size of the costume
 
 ~~~blocks3
-when [up arrow v] key is pressed
+when [up arrow v] key pressed
 change size by (10)
 
-when [down arrow v] key is pressed
+when [down arrow v] key pressed
 change size by (-10)
 ~~~
 
@@ -44,7 +44,7 @@ Here are two blocks that you would use to move the sprite left.
 
 ~~~blocks3
 change x by (-10)
-when [j v] key is pressed
+when [j v] key pressed
 ~~~
 
 --- /hint --- --- hint ---
@@ -52,16 +52,16 @@ when [j v] key is pressed
 Here is all the code you need, but you can choose any keys you like.
 
 ~~~blocks3
-when [j v] key is pressed
+when [j v] key pressed
 change x by (-10)
 
-when [l v] key is pressed
+when [l v] key pressed
 change x by (10)
 
-when [o v] key is pressed
+when [o v] key pressed
 change y by (10)
 
-when [k v] key is pressed
+when [k v] key pressed
 change y by (-10)
 ~~~
 
