@@ -25,7 +25,7 @@ You might also want to get back to a previous costume using the left arrow key. 
 
 ~~~blocks3
 when [left arrow v] key pressed
-switch costume to (((costume [number v]) - (1)))
+switch costume to ((costume [number v]) - (1))
 ~~~
 
 --- /task ---

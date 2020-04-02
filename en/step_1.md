@@ -1,19 +1,19 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+You're going to make a project to add filters and silly costumes to your image on the screen.
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Use the arrow keys to change the size of your costume, and the sliders to change the filter effect.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/final.png)
 --- /print-only ---
 
 --- collapse ---
@@ -22,17 +22,11 @@ title: What you will need
 ---
 ### Hardware
 
-+ Describe hardware here
++ A computer with a webcam
 
 ### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
++ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -41,8 +35,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+- How to capture video in Scratch
+- How to change colour effects
+- How to change costumes with key presses
 
 --- /collapse ---
 
@@ -51,8 +46,6 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
