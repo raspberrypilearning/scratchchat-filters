@@ -12,5 +12,5 @@ steps:
   - title: More costume controls
   - title: Adding a colour filter
   - title: "Challenge: Add some randomness"
-    challenge:true
+    challenge: true
   - title: What next?
