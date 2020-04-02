@@ -16,7 +16,7 @@ Now use the **Backdrops** tab to **Convert to Bitmap** and fill the backdrop wit
 
 --- task ---
 
-Now create two variables called `filter colour`{:class="block3cariables"} and `filter amount`{:class="block3variables"}. On the stage you can right click on these variables and set them both to be **sliders**.
+Now create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right click on these variables and set them both to be **sliders**.
 
 ![image showing the variables being changed to sliders](images/slider.png)
 
