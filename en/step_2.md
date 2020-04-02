@@ -1,4 +1,4 @@
-## Step title
+## Setting up the stage
 
 --- task ---
 
