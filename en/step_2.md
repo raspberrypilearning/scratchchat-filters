@@ -4,17 +4,17 @@
 
 Open a new Scratch project.
 
-Online: open a new online Scratch project at [rpf.io/scratch-new](rpf.io/scratch-new).
+Online: open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
 Offline: open a new project in the offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](rpf.io/scratchoff).
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you're going to need a sprite, that will be used to decorate the image of yourself. Delete the current Cat sprite by clicking on the `trash` icon.
+To begin your new project you're going to need a sprite, that will be used to decorate the image of yourself. Delete the current Cat sprite by clicking on the `Trash` icon.
 
 ![image showing trash icon on Cat sprite](images/delete-sprite.png)
 
@@ -22,7 +22,7 @@ To begin your new project you're going to need a sprite, that will be used to de
 
 --- task ---
 
-Create a new sprite by clicking on the `Choose Sprite` icon.
+Create a new sprite by clicking on the `Choose a Sprite` icon.
 
 ![image showing the expanded choose sprite icon](images/new-sprite.png)
 
@@ -48,7 +48,7 @@ Click on the `Add Extension` button in the bottom left of the screen.
 
 --- task ---
 
-Choose the `Video Extension` addon from the menu provided.
+Choose the `Video Sensing` addon from the menu provided.
 
 ![image showing the selection of the video extension library](images/video-extension.png)
 
