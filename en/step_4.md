@@ -32,7 +32,7 @@ change size by (-10)
 
 --- task ---
 
-Now see if you can add some more controls that might allow you to position the sprite, by changing it's position on the screen.
+Now see if you can add some more controls that might allow you to position the sprite, by changing its position on the screen.
 
 --- hints --- --- hint ---
 
