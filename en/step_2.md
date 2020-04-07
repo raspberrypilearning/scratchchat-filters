@@ -14,7 +14,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- task ---
 
-To begin your new project you're going to need a sprite, that will be used to decorate the image of yourself. Delete the current Cat sprite by clicking on the `Trash` icon.
+To begin your new project you need a sprite, this is to be used to decorate the image of yourself. Delete the current Cat sprite by clicking on the `Trash` icon.
 
 ![image showing trash icon on Cat sprite](images/delete-sprite.png)
 
@@ -48,7 +48,7 @@ Click on the `Add Extension` button in the bottom left of the screen.
 
 --- task ---
 
-Choose the `Video Sensing` addon from the menu provided.
+Choose the `Video Sensing` add-on from the menu provided.
 
 ![image showing the selection of the video extension library](images/video-extension.png)
 
@@ -56,7 +56,7 @@ Choose the `Video Sensing` addon from the menu provided.
 
 --- task ---
 
-If you are prompted by you web browser, then **Allow** it access to your webcam.
+If you are prompted by you web browser, **Allow** it access to your webcam.
 
 ![image showing browser prompt to allow access to the camera](images/allow-camera.png)
 
