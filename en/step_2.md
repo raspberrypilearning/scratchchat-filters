@@ -48,7 +48,7 @@ Click on the **Add Extension** button in the bottom left-hand corner of the scre
 
 --- task ---
 
-Choose the `Video Sensing` add-on from the menu provided.
+Choose the **Video Sensing** add-on from the menu provided.
 
 ![image showing the selection of the video extension library](images/video-extension.png)
 
