@@ -1,12 +1,12 @@
-## Setting up the stage
+## Set up the stage
 
 --- task ---
 
 Open a new Scratch project.
 
-Online: open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-Offline: open a new project in the offline editor.
+**Offline:** open a new project in the offline editor.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
@@ -14,7 +14,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- task ---
 
-To begin your new project you're going to need a sprite, that will be used to decorate the image of yourself. Delete the current Cat sprite by clicking on the `Trash` icon.
+To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
 
 ![image showing trash icon on Cat sprite](images/delete-sprite.png)
 
@@ -22,7 +22,7 @@ To begin your new project you're going to need a sprite, that will be used to de
 
 --- task ---
 
-Create a new sprite by clicking on the `Choose a Sprite` icon.
+Create a new sprite by clicking on the **Choose a Sprite** icon.
 
 ![image showing the expanded choose sprite icon](images/new-sprite.png)
 
@@ -30,7 +30,7 @@ Create a new sprite by clicking on the `Choose a Sprite` icon.
 
 --- task ---
 
-Select the `Fashion` button and choose one of the sprites. Here we'll start with the glasses.
+Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
 
 ![image showing fashion sprites](images/fashion.png)
 
@@ -40,7 +40,7 @@ Select the `Fashion` button and choose one of the sprites. Here we'll start with
 
 --- task ---
 
-Click on the `Add Extension` button in the bottom left of the screen.
+Click on the **Add Extension** button in the bottom left-hand corner of the screen.
 
 ![image showing the add extension button](images/add-extension.png)
 
@@ -48,7 +48,7 @@ Click on the `Add Extension` button in the bottom left of the screen.
 
 --- task ---
 
-Choose the `Video Sensing` addon from the menu provided.
+Choose the **Video Sensing** add-on from the menu provided.
 
 ![image showing the selection of the video extension library](images/video-extension.png)
 
@@ -56,7 +56,7 @@ Choose the `Video Sensing` addon from the menu provided.
 
 --- task ---
 
-If you are prompted by you web browser, then **Allow** it access to your webcam.
+If you are prompted by your web browser, then **Allow** it access to your webcam.
 
 ![image showing browser prompt to allow access to the camera](images/allow-camera.png)
 
