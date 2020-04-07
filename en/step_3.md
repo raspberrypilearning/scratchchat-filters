@@ -13,7 +13,7 @@ next costume
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard, to see the glasses change style.
+Try pressing the right arrow key on your keyboard to see the glasses change style.
 
 ![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
 
@@ -21,7 +21,7 @@ Try pressing the right arrow key on your keyboard, to see the glasses change sty
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you will need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
 
 ~~~blocks3
 when [left arrow v] key pressed
