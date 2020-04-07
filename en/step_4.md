@@ -36,11 +36,11 @@ See if you can add some more controls to change the position of the sprite.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
 
 --- /hint --- --- hint ---
 
-Here are two blocks that you would use to move the sprite left.
+Here are two blocks that move the sprite left.
 
 ~~~blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but you can choose any keys you want.
+Here is all the code you need, but choose any keys you want for your sprite.
 
 ~~~blocks3
 when [j v] key pressed
