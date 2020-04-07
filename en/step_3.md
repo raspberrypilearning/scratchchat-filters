@@ -32,7 +32,7 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the Costumes tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
 
 ![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
 
@@ -40,7 +40,7 @@ To add some more costumes to your sprite, click on the Costumes tab and then on 
 
 --- task ---
 
-In the Costumes tab you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
+In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
 
 ![image of man with alien antenna on his head](images/alien-antenna.png)
 
