@@ -7,10 +7,10 @@ copyedit: false
 last_tested: "2020-04-01"
 steps:
   - title: Introduction
-  - title: Setting up the stage
-  - title: Switching costumes
+  - title: Set up the stage
+  - title: How to switch costumes
   - title: More costume controls
-  - title: Adding a colour filter
+  - title: Add a colour filter
   - title: "Challenge: Add some randomness"
     challenge: true
   - title: What next?

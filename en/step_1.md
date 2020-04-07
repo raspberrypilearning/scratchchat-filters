@@ -5,6 +5,7 @@ You're going to make a project to add filters and silly costumes to your image o
 ### What you will make
 
 --- no-print ---
+
 Use the arrow keys to change the size of your costume, and the sliders to change the filter effect.
 
 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -12,13 +13,16 @@ Use the arrow keys to change the size of your costume, and the sliders to change
 --- /no-print ---
 
 --- print-only ---
+
 ![Complete project](images/final.png)
+
 --- /print-only ---
 
 --- collapse ---
 ---
 title: What you will need
 ---
+
 ### Hardware
 
 + A computer with a webcam
