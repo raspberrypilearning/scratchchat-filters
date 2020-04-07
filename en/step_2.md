@@ -14,7 +14,7 @@ If you need to download and install the Scratch offline editor, you can find it 
 
 --- task ---
 
-To begin your new project you need a sprite, this is to be used to decorate the image of yourself. Delete the current cat sprite by clicking on the **Trash** icon.
+To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
 
 ![image showing trash icon on Cat sprite](images/delete-sprite.png)
 
