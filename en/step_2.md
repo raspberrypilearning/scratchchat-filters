@@ -1,4 +1,4 @@
-## Setting up the stage
+## Set up the stage
 
 --- task ---
 
@@ -22,7 +22,7 @@ To begin your new project you need a sprite, this is to be used to decorate the 
 
 --- task ---
 
-Create a new sprite by clicking on the `Choose a Sprite` icon.
+Create a new sprite by clicking on the **Choose a Sprite** icon.
 
 ![image showing the expanded choose sprite icon](images/new-sprite.png)
 
@@ -30,7 +30,7 @@ Create a new sprite by clicking on the `Choose a Sprite` icon.
 
 --- task ---
 
-Select the `Fashion` button and choose one of the sprites. Here we'll start with the glasses.
+Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
 
 ![image showing fashion sprites](images/fashion.png)
 
@@ -40,7 +40,7 @@ Select the `Fashion` button and choose one of the sprites. Here we'll start with
 
 --- task ---
 
-Click on the `Add Extension` button in the bottom left of the screen.
+Click on the **Add Extension** button in the bottom left-hand corner of the screen.
 
 ![image showing the add extension button](images/add-extension.png)
 
@@ -56,7 +56,7 @@ Choose the `Video Sensing` add-on from the menu provided.
 
 --- task ---
 
-If you are prompted by you web browser, then **Allow** it access to your webcam.
+If you are prompted by your web browser, then **Allow** it access to your webcam.
 
 ![image showing browser prompt to allow access to the camera](images/allow-camera.png)
 
