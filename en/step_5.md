@@ -8,7 +8,7 @@ Click on the **Backdrop** icon.
 
 ![image showing stage icon](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap** and fill the backdrop with a single colour, using the **Paint bucket** tool.
+Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
 
 ![image showing the filled in backdrop for the stage](images/paint-bucket.png)
 
