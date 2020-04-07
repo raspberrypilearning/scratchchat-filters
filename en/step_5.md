@@ -1,6 +1,6 @@
 ## Add a colour filter
 
-Now you can give your image a colour filter.
+Now give your image a colour filter.
 
 --- task ---
 
