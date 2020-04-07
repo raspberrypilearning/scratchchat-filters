@@ -2,7 +2,7 @@
 
 --- task ---
 
-Now that you have your glasses positioned, you can change their style, by using some simple key presses. Add these code blocks to your sprite.
+Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
 
 ~~~blocks3
 when [right arrow v] key pressed
@@ -32,7 +32,7 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-Add some more costumes to your sprite, by clicking on the costumes tab and then on the **Choose a Costume** button in the bottom left corner of the screen.
+To add some more costumes to your sprite, click on the costumes tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
 
 ![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
 
