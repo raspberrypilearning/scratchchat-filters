@@ -26,13 +26,13 @@ Next, create two variables called `filter colour`{:class="block3variables"} and 
 
 To finish off your project, use these variables to alter the look of the filter. 
 
-~~~blocks3
+```blocks3
 when flag clicked
 turn video (on v)
 forever
 set video transparency to (filter amount)
 set [color v] effect to (filter colour)
-~~~
+```
 
 --- /task ---
 

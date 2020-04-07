@@ -6,13 +6,13 @@ You can now add controls to change the size of the sprite and also decide if the
 
 Add these blocks to make the sprite appear and disappear.
 
-~~~blocks3
+```blocks3
 when [s v] key pressed
 show
 
 when [h v] key pressed
 hide
-~~~
+```
 
 --- /task ---
 
@@ -20,13 +20,13 @@ hide
 
 Now add some more blocks to change the size of the costume.
 
-~~~blocks3
+```blocks3
 when [up arrow v] key pressed
 change size by (10)
 
 when [down arrow v] key pressed
 change size by (-10)
-~~~
+```
 
 --- /task ---
 
@@ -42,16 +42,16 @@ Use any keys you like to increase or decrease the sprite's position by using the
 
 Here are two blocks that move the sprite left.
 
-~~~blocks3
+```blocks3
 change x by (-10)
 when [j v] key pressed
-~~~
+```
 
 --- /hint --- --- hint ---
 
 Here is all the code you need, but choose any keys you want for your sprite.
 
-~~~blocks3
+```blocks3
 when [j v] key pressed
 change x by (-10)
 
@@ -63,7 +63,7 @@ change y by (10)
 
 when [k v] key pressed
 change y by (-10)
-~~~
+```
 
 --- /hint --- --- /hints ---
 

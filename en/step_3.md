@@ -4,10 +4,10 @@
 
 Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
 
-~~~blocks3
+```blocks3
 when [right arrow v] key pressed
 next costume
-~~~
+```
 
 --- /task ---
 
@@ -23,10 +23,10 @@ Try pressing the right arrow key on your keyboard to see the glasses change styl
 
 You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
 
-~~~blocks3
+```blocks3
 when [left arrow v] key pressed
 switch costume to ((costume [number v]) - (1))
-~~~
+```
 
 --- /task ---
 
