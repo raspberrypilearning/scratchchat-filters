@@ -1,52 +1,52 @@
 ## Introduction
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Tu vas faire un projet pour ajouter des filtres et des costumes idiots sur toi à l'écran.
 
-### What you will make
+### Ce que tu feras
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Utiliser les touches fléchées pour changer la taille de ton costume et les curseurs pour changer l'effet de filtre. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Projet terminé](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Ce que tu auras besoin
 ---
 
-### Hardware
+### Matériel informatique
 
-+ A computer with a webcam
++ Un ordinateur avec une webcam
 
-### Software
+### Logiciel
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (soit [en ligne](http://rpf.io/scratchon) ou [hors-ligne](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ce que tu vas apprendre
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Comment capturer une vidéo dans Scratch
+- Comment changer les effets de couleur
+- Comment changer de costume avec des touches
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informations supplémentaires pour les éducateurs
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Si vous besoin d'imprimer ce projet, utilisez la [version imprimable](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
