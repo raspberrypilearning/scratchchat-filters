@@ -1,72 +1,72 @@
-## Set up the stage
+## Préparer la scène
 
 --- task ---
 
-Open a new Scratch project.
+Ouvre un nouveau projet Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**En ligne :** ouvre un nouveau projet Scratch en ligne sur [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Hors-ligne : ** ouvre un nouveau projet dans l'éditeur hors-ligne.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Si tu as besoin de télécharger et d’installer l’éditeur Scratch hors-ligne, tu peux le trouver ici : [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Pour commencer ton nouveau projet, tu as besoin d'un sprite. Tu utiliseras le sprite pour décorer l'image de toi-même. Clique sur l'icône **Corbeille** pour supprimer le sprite de chat actuel.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![image montrant l'icône de la corbeille sur le sprite chat](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Crée un nouveau sprite en cliquant sur l'icône **Choisir un sprite**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![image montrant l'icône de choix de sprite étendu](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Sélectionne le bouton **Mode** et choisis l'un des sprites. Ici, nous allons commencer avec les lunettes.
 
-![image showing the add extension button](images/add-extension.png)
+![image montrant des sprites de mode](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![image montrant le sprite de lunettes](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Clique sur le bouton **Ajouter une extension** dans le coin inférieur gauche de l'écran.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![image montrant le bouton ajouter une extension](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Choisis le module complémentaire **Détection vidéo** dans le menu.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![image montrant la sélection de la bibliothèque d'extensions vidéo](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Si ton navigateur Web t'y invite, **Autorise** l'accès à ta webcam.
+
+![image montrant l'invite du navigateur pour autoriser l'accès à la caméra](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Tu devrais maintenant pouvoir te voir sur la scène, et tu peux positionner les lunettes sur ton visage.
+
+![image montrant un homme avec des lunettes superposées sur son visage](images/man-with-glasses.png)
 
 --- /task ---
 
