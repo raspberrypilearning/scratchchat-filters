@@ -1,27 +1,27 @@
-## How to switch costumes
+## Comment changer de costume
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Maintenant que tes lunettes sont positionnées, tu peux utiliser de simples pressions sur les touches pour changer leur style. Ajoute ces blocs de code à ton sprite.
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+quand la touche [flèche droite v] est pressée
+costume suivant
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+Essaie d'appuyer sur la touche fléchée droite de ton clavier pour voir les lunettes changer de style.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![image d'un homme portant des lunettes en forme de cœur](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+Tu peux également vouloir revenir à un costume précédent à l'aide de la touche fléchée gauche. Pour ce faire, tu dois utiliser le `numéro du costume`{:class="block3looks"} et en soustraire `1`.
 
 ```blocks3
 when [left arrow v] key pressed
@@ -32,25 +32,25 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+Pour ajouter d'autres costumes à ton sprite, clique sur l'onglet **Costumes** puis sur le bouton **Choisir un costume** dans le coin inférieur gauche de l'écran.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![image montrant le bouton Choisir un costume avec le menu ouvert](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+Dans l'onglet **Costumes** , tu peux sélectionner toutes les parties d'un costume en maintenant enfoncée la touche Ctrl de ton clavier, puis en appuyant sur la touche A. Tu peux ensuite déplacer et redimensionner chaque costume afin qu'il soit au bon endroit.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![image de l'homme avec une antenne extra-terrestre sur sa tête](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+Maintenant, tu peux utiliser les touches fléchées pour parcourir tous tes différents costumes.
+
+![gif animé d'un homme avec différents costumes portés](images/costumes.gif)
 
 --- /task ---
 
