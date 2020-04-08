@@ -1,30 +1,30 @@
-## Add a colour filter
+## Ajouter un filtre de couleur
 
-Now give your image a colour filter.
+Maintenant, donne à ton image un filtre de couleur.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Clique sur l'icone **Arrière-plan**.
 
-![image showing stage icon](images/stage.png)
+![image montrant l'icône de la scène](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Utilise l'onglet **Arrière-plan** pour **Convertir en Bitmap**. Ensuite, utilise l'outil **Pot de peinture** pour remplir l'arrière-plan d'une seule couleur.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![image montrant l'arrière-plan rempli pour la scène](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Ensuite, crée deux variables appelées `couleur du filtre`{:class="block3variables"} et `quantité de filtre`{:class="block3variables"}. Sur la scène, tu peux faire un clic droit sur ces variables et les définir toutes les deux comme **barres de défilement**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![image montrant les variables modifiées en barres de défilement](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Pour terminer ton projet, utilise ces variables pour modifier l'apparence du filtre.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Maintenant tu peux déplacer les curseurs pour voir l'effet sur ton image.
 
 --- /task ---
 
