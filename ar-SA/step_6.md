@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## التحدي: أضف بعض العشوائية
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+هل يمكنك إضافة زر عشوائي للمرشحات الخاصة بك؟ ربما عند النقر على نقش متحرك بلون المرشح ` ` {: class = "block3variables"} ومقدار عامل التصفية ` ` {: class = "block3variables"} يتم تغييرها عشوائيًا واختيار زي عشوائي.
