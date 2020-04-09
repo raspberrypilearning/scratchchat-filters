@@ -1,10 +1,10 @@
-## Add a colour filter
+## Añade un filtro de color
 
-Now give your image a colour filter.
+Ahora dale a tu imagen un filtro de color.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Haz clic en el icono **Fondo**.
 
 ![image showing stage icon](images/stage.png)
 
