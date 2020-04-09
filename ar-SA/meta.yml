@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: مرشحات سكراتشات
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: أضف فلاتر وصور رائعة إلى صورك
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Set up the stage
+    title: جهز المسرح
   - 
-    title: How to switch costumes
+    title: كيفية تبديل المظاهر
   - 
-    title: More costume controls
+    title: المزيد من عناصر التحكم في المظاهر
   - 
-    title: Add a colour filter
+    title: أضف مرشح لون
   - 
-    title: "Challenge: Add some randomness"
+    title: "التحدي: أضف بعض العشوائية"
     challenge: true
   - 
-    title: What next?
+    title: ما التالي؟
