@@ -1,30 +1,30 @@
-## Add a colour filter
+## Voeg een kleurenfilter toe
 
-Now give your image a colour filter.
+Geef nu je afbeelding een kleurenfilter.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Klik op **Kies een achtergrond**.
 
-![image showing stage icon](images/stage.png)
+![afbeelding met achtergrond-pictogram](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Gebruik het **Achtergronden** tabblad en klik op **Zet om naar bitmap**. Gebruik vervolgens de **Vulling** knop om de achtergrond met één kleur te vullen.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![afbeelding met de gevulde achtergrond van het speelveld](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Maak vervolgens twee variabelen aan en noem er één `filter kleur`{:class="block3variables"} en de andere `filter dichtheid`{:class="block3variables"}. In het podium kun je met de rechtermuisknop op deze variabelen klikken en ze beide instellen als **schuif**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![afbeelding met de variabelen die worden gewijzigd in schuifregelaars](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Om je project af te ronden, gebruik je deze variabelen om het uiterlijk van het filter te veranderen.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Nu kun je de schuiven verplaatsen om het effect op je afbeelding te zien.
 
 --- /task ---
 
