@@ -6,11 +6,11 @@ Ahora dale a tu imagen un filtro de color.
 
 Haz clic en el icono **Fondo**.
 
-![image showing stage icon](images/stage.png)
+![imagen mostrando el icono del escenario](images/stage.png)
 
 Usa la pestaña **Fondos** para **Convertir a mapa de bits**. Luego usa la herramienta **Cubo de pintura** para llenar el fondo con un solo color.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![imagen que muestra el fondo rellenado para el escenario](images/paint-bucket.png)
 
 --- /task ---
 
@@ -18,7 +18,7 @@ Usa la pestaña **Fondos** para **Convertir a mapa de bits**. Luego usa la herra
 
 A continuación, crea dos variables llamadas `filtro color`{:class="block3variables"} y `filtro cantidad`{:class="block3variables"}. En el escenario, puedes hacer clic derecho en estas variables y configurarlas para que sean **deslizadores**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![imagen que muestra las variables que se están cambiando por deslizadores](images/sliders.png)
 
 --- /task ---
 
