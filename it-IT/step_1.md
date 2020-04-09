@@ -1,52 +1,52 @@
-## Introduction
+## Introduzione
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Stai per creare un progetto per aggiungere filtri e costumi buffi alla tua immagine sullo schermo.
 
-### What you will make
+### Che cosa creerai
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Usa i tasti freccia per cambiare la taglia del tuo costume e i cursori per cambiare l'effetto del filtro. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Progetto completo](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Cosa ti servirà
 ---
 
 ### Hardware
 
-+ A computer with a webcam
++ Un computer con una webcam
 
 ### Software
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 ([online](http://rpf.io/scratchon) o [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Cosa imparerai
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Come acquisire video in Scratch
+- Come modificare gli effetti di colore
+- Come cambiare i costumi con la pressione dei tasti
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Informazioni aggiuntive per gli educatori
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Se intendete stampare questo progetto, fate clic su [Versione stampabile](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
