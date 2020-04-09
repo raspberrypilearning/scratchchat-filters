@@ -1,3 +1,3 @@
-## What next?
+## Wat kun je verder nog doen?
 
-Now that you've completed this project, have a look at some of our other [funny projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
+Nu je dit project hebt voltooid, kun je enkele van onze andere [grappige projecten](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour) bekijken.
