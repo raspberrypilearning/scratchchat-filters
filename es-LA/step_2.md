@@ -1,20 +1,20 @@
-## Set up the stage
+## Prepara el escenario
 
 --- task ---
 
-Open a new Scratch project.
+Abre un nuevo proyecto en Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**En línea:** abre un nuevo proyecto de Scratch en línea en [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Offline**: abra un nuevo proyecto en el editor fuera de línea.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Si necesitas descargar e instalar el editor de Scratch offline, puedes encontrarlo en [ rpf.io/scratchoff ](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Para comenzar tu nuevo proyecto necesitas un objeto. Usarás el objeto para decorar la imagen de ti mismo. Haz clic en el icono de la **Papelera** para eliminar el objeto del gato actual.
 
 ![image showing trash icon on Cat sprite](images/delete-sprite.png)
 
@@ -22,7 +22,7 @@ To begin your new project you need a sprite. You'll use the sprite to decorate t
 
 --- task ---
 
-Create a new sprite by clicking on the **Choose a Sprite** icon.
+Crea un nuevo objeto haciendo clic en el icono **Elige un objeto**.
 
 ![image showing the expanded choose sprite icon](images/new-sprite.png)
 
@@ -30,7 +30,7 @@ Create a new sprite by clicking on the **Choose a Sprite** icon.
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Selecciona el botón **Moda** y elige uno de los objetos. Empezaremos con las gafas.
 
 ![image showing fashion sprites](images/fashion.png)
 
