@@ -24,7 +24,7 @@ Per iniziare il tuo nuovo progetto hai bisogno di uno sprite. Userai lo sprite p
 
 Crea un nuovo sprite facendo clic sull'icona **Scegli uno Sprite**.
 
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![immagine che mostra l'icona di scelta sprite espansa](images/new-sprite.png)
 
 --- /task ---
 
