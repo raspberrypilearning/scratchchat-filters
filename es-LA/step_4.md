@@ -1,68 +1,68 @@
-## More costume controls
+## Más controles para los disfraces
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Ahora puedes añadir controles para cambiar el tamaño del objeto y también decidir si la imagen se muestra o está oculta.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Añade estos bloques para hacer que el objeto aparezca y desaparezca.
 
 ```blocks3
-when [s v] key pressed
-show
+cuando la tecla [s v] es presionada
+muestra
 
-when [h v] key pressed
-hide
+cuando la tecla [h v] es presionada
+ocultar
 ```
 
 --- /task ---
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Ahora añade algunos bloques más para cambiar el tamaño del disfraz.
 
 ```blocks3
-when [up arrow v] key pressed
-change size by (10)
+cuando la tecla [flecha arriba v] es presionada
+cambie el tamaño en (10)
 
-when [down arrow v] key pressed
-change size by (-10)
+cuando la tecla [flecha abajo v] es presionada
+cambie el tamaño en (-10)
 ```
 
 --- /task ---
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Intenta añadir más controles para cambiar la posición del objeto.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Usa las teclas que quieras para aumentar o disminuir la posición del objeto usando los bloques `sumar a x`{:class="block3motion"} y `sumar a y`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Aquí tienes dos bloques que mueven el objeto hacia la izquierda.
 
 ```blocks3
-change x by (-10)
-when [j v] key pressed
+cambie x por (-10)
+cuando se presione la tecla  [ j v ]
 ```
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Aquí está todo el código que necesitas, pero elige las teclas que quieras para tu objeto.
 
 ```blocks3
-when [j v] key pressed
-change x by (-10)
+cuando la tecla [ j v ] es presionada
+cambia x por (-10)
 
-when [l v] key pressed
-change x by (10)
+cuando la tecla [ l v ] es presionada
+cambia x por (10)
 
-when [o v] key pressed
-change y by (10)
+cuando la tecla [ o v ] es presionada
+cambia y por (10)
 
-when [k v] key pressed
-change y by (-10)
+cuando la tecla [ k v ] es presionada
+cambiar y por (-10)
 ```
 
 --- /hint --- --- /hints ---
