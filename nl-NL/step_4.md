@@ -1,10 +1,10 @@
-## More costume controls
+## Meer uiterlijk mogelijkheden
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Je kunt nu besturingselementen toevoegen om de grootte van de sprite te wijzigen en ook beslissen of de afbeelding wordt weergegeven of verborgen.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Voeg deze blokken toe om de sprite te laten verschijnen en verdwijnen.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Voeg nu meer blokken toe om de grootte van het uiterlijk te veranderen.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Kijk of je nog meer besturingselementen kunt toevoegen om de positie van de sprite te veranderen.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Gebruik diverse toetsen om de sprite zijn positie te veranderen door gebruik te maken van `verander x met`{:class="block3motion"} en `verander y met`{:class="block3motion"} blokken
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Hier zijn twee blokken die de sprite naar links verplaatsen.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Hier is de code die je nodig hebt, maar kies zelf de toets die je wilt voor je sprite.
 
 ```blocks3
 when [j v] key pressed
