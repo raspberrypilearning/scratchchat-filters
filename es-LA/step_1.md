@@ -18,12 +18,12 @@ Usa las teclas de flecha para cambiar el tamaño de tu disfraz y los controles d
 
 --- collapse ---
 ---
-title: What you will need
+title: Lo que necesitarás
 ---
 
 ### Hardware
 
-+ A computer with a webcam
++ Una computadora con una cámara web
 
 ### Software
 
@@ -33,7 +33,7 @@ title: What you will need
 
 --- collapse ---
 ---
-title: What you will learn
+title: Lo que aprenderás
 ---
 
 - Cómo capturar video en Scratch
@@ -44,7 +44,7 @@ title: What you will learn
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Información adicional para educadores
 ---
 
 Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
