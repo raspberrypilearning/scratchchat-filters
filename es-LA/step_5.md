@@ -27,11 +27,11 @@ A continuación, crea dos variables llamadas `filtro color`{:class="block3variab
 Para terminar tu proyecto, utiliza estas variables para alterar el aspecto del filtro.
 
 ```blocks3
-cuando se hace clic en la bandera
-activa el video ( v)
-para siempre
-establece la transparencia del video en (filtro cantidad)
-establece el efecto [color v] en (filtro color)
+when flag clicked
+turn video (on v)
+forever
+set video transparency to (filtro cantidad)
+set [color v] effect to (filtro color)
 ```
 
 --- /task ---

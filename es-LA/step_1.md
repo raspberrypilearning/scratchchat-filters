@@ -6,7 +6,9 @@ Vas a hacer un proyecto para agregar filtros y disfraces tontos a tu imagen en l
 
 --- no-print ---
 
-Usa las teclas de flecha para cambiar el tamaño de tu disfraz y los controles deslizantes para cambiar el efecto del filtro. <iframe src="https://scratch.mit.edu/projects/384222692/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Usa las teclas de flecha para cambiar el tamaño de tu disfraz y los controles deslizantes para cambiar el efecto del filtro. 
+
+<iframe src="https://scratch.mit.edu/projects/384222692/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

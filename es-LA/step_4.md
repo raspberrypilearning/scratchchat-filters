@@ -7,11 +7,11 @@ Ahora puedes añadir controles para cambiar el tamaño del objeto y también dec
 Añade estos bloques para hacer que el objeto aparezca y desaparezca.
 
 ```blocks3
-cuando la tecla [s v] es presionada
-muestra
+when [s v] key pressed
+show
 
-cuando la tecla [h v] es presionada
-ocultar
+when [h v] key pressed
+hide
 ```
 
 --- /task ---
@@ -21,11 +21,11 @@ ocultar
 Ahora añade algunos bloques más para cambiar el tamaño del disfraz.
 
 ```blocks3
-cuando la tecla [flecha arriba v] es presionada
-cambie el tamaño en (10)
+when [up arrow v] key pressed
+change size by (10)
 
-cuando la tecla [flecha abajo v] es presionada
-cambie el tamaño en (-10)
+when [down arrow v] key pressed
+change size by (-10)
 ```
 
 --- /task ---
@@ -44,8 +44,8 @@ Usa las teclas que quieras para aumentar o disminuir la posición del objeto usa
 Aquí tienes dos bloques que mueven el objeto hacia la izquierda.
 
 ```blocks3
-cambie x por (-10)
-cuando se presione la tecla  [ j v ]
+change x by (-10)
+when [j v] key pressed
 ```
 
 --- /hint --- --- hint ---
@@ -53,17 +53,17 @@ cuando se presione la tecla  [ j v ]
 Aquí está todo el código que necesitas, pero elige las teclas que quieras para tu objeto.
 
 ```blocks3
-cuando la tecla [ j v ] es presionada
-cambia x por (-10)
+when [j v] key pressed
+change x by (-10)
 
-cuando la tecla [ l v ] es presionada
-cambia x por (10)
+when [l v] key pressed
+change x by (10)
 
-cuando la tecla [ o v ] es presionada
-cambia y por (10)
+when [o v] key pressed
+change y by (10)
 
-cuando la tecla [ k v ] es presionada
-cambiar y por (-10)
+when [k v] key pressed
+change y by (-10)
 ```
 
 --- /hint ------ /hints ---

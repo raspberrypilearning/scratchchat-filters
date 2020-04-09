@@ -5,7 +5,8 @@
 Ora che hai gli occhiali posizionati, puoi usare alcune semplici pressioni dei tasti per cambiarne lo stile. Aggiungi questi blocchi di codice al tuo sprite.
 
 ```blocks3
-quando si preme il tasto [freccia destra v] costume successivo
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---

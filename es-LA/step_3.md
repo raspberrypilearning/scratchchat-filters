@@ -5,8 +5,8 @@
 Ahora que tienes las gafas colocadas, puedes usar algunas teclas simples para cambiar su estilo. Añade estos bloques de código a tu objeto.
 
 ```blocks3
-al presionar [flecha derecha v] 
-siguiente disfraz
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---
@@ -24,8 +24,8 @@ Intenta presionar la flecha derecha en tu teclado para ver cómo las gafas cambi
 También puede que quieras volver a un disfraz anterior usando la flecha izquierda. Para hacer esto, debes usar el `número de disfraz`{:class="block3looks"} y restarle `1`.
 
 ```blocks3
-cuando la tecla [flecha izquierda v] es presionada
-cambia el disfraz a ((disfraz [número v]) - (1))
+when [left arrow v] key pressed
+switch costume to ((costume [number v]) - (1))
 ```
 
 --- /task ---

@@ -6,7 +6,9 @@ Stai per creare un progetto per aggiungere filtri e costumi buffi alla tua immag
 
 --- no-print ---
 
-Usa i tasti freccia per cambiare la taglia del tuo costume e i cursori per cambiare l'effetto del filtro. <iframe src="https://scratch.mit.edu/projects/384222147/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Usa i tasti freccia per cambiare la taglia del tuo costume e i cursori per cambiare l'effetto del filtro. 
+
+<iframe src="https://scratch.mit.edu/projects/384222147/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

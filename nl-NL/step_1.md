@@ -6,7 +6,9 @@ Je gaat een project maken om filters en gekke uiterlijken toe te voegen aan je a
 
 --- no-print ---
 
-Gebruik de pijltjestoetsen om de grootte van je uiterlijk te wijzigen en de schuifregelaars om het filtereffect te wijzigen. <iframe src="https://scratch.mit.edu/projects/384221307/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Gebruik de pijltjestoetsen om de grootte van je uiterlijk te wijzigen en de schuifregelaars om het filtereffect te wijzigen. 
+
+<iframe src="https://scratch.mit.edu/projects/384221307/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
