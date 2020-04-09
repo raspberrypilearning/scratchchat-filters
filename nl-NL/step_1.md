@@ -1,52 +1,52 @@
-## Introduction
+## Inleiding
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Je gaat een project maken om filters en gekke uiterlijken toe te voegen aan je afbeelding op het scherm.
 
-### What you will make
+### Wat ga je maken
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Gebruik de pijltjestoetsen om de grootte van je uiterlijk te wijzigen en de schuifregelaars om het filtereffect te wijzigen. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Voltooid project](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Wat heb je nodig
 ---
 
 ### Hardware
 
-+ A computer with a webcam
++ Een computer met een webcam
 
 ### Software
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (of [online](http://rpf.io/scratchon) of [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Wat ga je leren
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Hoe je video kunt vastleggen in Scratch
+- Hoe je Kleureffecten kunt wijzigen
+- Uiterlijken veranderen met toetsaanslagen
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Aanvullende informatie voor docenten
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printvriendelijke versie](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
