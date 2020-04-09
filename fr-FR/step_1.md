@@ -6,7 +6,9 @@ Tu vas faire un projet pour ajouter des filtres et des costumes idiots sur toi �
 
 --- no-print ---
 
-Utiliser les touches fléchées pour changer la taille de ton costume et les curseurs pour changer l'effet de filtre. <iframe src="https://scratch.mit.edu/projects/384093522/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Utiliser les touches fléchées pour changer la taille de ton costume et les curseurs pour changer l'effet de filtre. 
+
+<iframe src="https://scratch.mit.edu/projects/384093522/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
