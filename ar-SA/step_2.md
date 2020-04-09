@@ -1,48 +1,48 @@
-## Set up the stage
+## جهز المسرح
 
 --- task ---
 
-Open a new Scratch project.
+افتح مشروع فارغ جديد في برنامج سكراتش.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**عبر الإنترنت:** افتح مشروع سكراتش جديد على الإنترنت على [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**من دون اتصال انترنيت:** افتح مشروع سكراتش Scratch جديد عبر برنامج المحرر الموجود على على جهازك دون اتصال بالانترنيت.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+لتنزيل و تركيب محرر Scratch على جهازك الشخصي، يمكنك الحصول عليه من هنا [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+لبدء مشروعك الجديد تحتاج إلى كائن. ستستخدم الكائن لتزيين صورة نفسك. انقر على **المهملات** رمز لحذف الكائن القط الحالي.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![صورة تظهر أيقونة سلة المهملات على كائن القطة](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+أنشئ كائن متحركًا جديدًا بالنقر فوق الرمز **اختر كائن متحركًا**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![صورة تظهر أيقونة اختيار الكائنات المتحركة الموسعة](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+اختر زر **ازياء** واختر أحد الكائنات المتحركة. هنا سنبدأ مع النظارات.
 
-![image showing the add extension button](images/add-extension.png)
+![صورة تظهر كائنات الأزياء](images/fashion.png)
+
+![صورة تظهر كائن النظارات](images/glasses.png)
+
+--- /task ---
+
+--- task ---
+
+انقر فوق الزر **إضافة ملحق** في الزاوية السفلية اليسرى من الشاشة.
+
+![صورة تظهر زر إضافة ملحق](images/add-extension.png)
 
 --- /task ---
 
@@ -50,23 +50,23 @@ Click on the **Add Extension** button in the bottom left-hand corner of the scre
 
 Choose the **Video Sensing** add-on from the menu provided.
 
-![image showing the selection of the video extension library](images/video-extension.png)
+![صورة توضح اختيار مكتبة ملحق الفيديو](images/video-extension.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+إذا تمت مطالبتك من قبل متصفح الويب الخاص بك، ثم **السماح** من الوصول إلى كاميرا ويب الخاص بك.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![صورة تظهر مطالبة المتصفح للسماح بالوصول إلى الكاميرا](images/allow-camera.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+يجب أن تكون قادرًا الآن على رؤية نفسك على المسرح ، ويمكنك وضع النظارات على وجهك.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![صورة تظهر رجلًا يرتدي نظارات فوق وجهه](images/man-with-glasses.png)
 
 --- /task ---
 
