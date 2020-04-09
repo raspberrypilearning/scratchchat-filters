@@ -1,56 +1,56 @@
-## How to switch costumes
+## Cómo cambiar disfraces
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Ahora que tienes las gafas colocadas, puedes usar algunas teclas simples para cambiar su estilo. Añade estos bloques de código a tu objeto.
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+al presionar [flecha derecha v] 
+siguiente disfraz
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+Intenta presionar la flecha derecha en tu teclado para ver cómo las gafas cambian de estilo.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![imagen de un hombre que lleva las gafas en forma de corazón](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+También puede que quieras volver a un disfraz anterior usando la flecha izquierda. Para hacer esto, debes usar el `número de disfraz`{: class = "block3looks"} y restarle `1`.
 
 ```blocks3
-when [left arrow v] key pressed
-switch costume to ((costume [number v]) - (1))
+cuando la tecla [flecha izquierda v] es presionada
+cambia el disfraz a ((disfraz [número v]) - (1))
 ```
 
 --- /task ---
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+Para agregar más disfraces a tu objeto, haz clic en la pestaña **Disfraces** y luego en el botón **Elige un Disfraz** en la esquina inferior izquierda de la pantalla.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![imagen mostrando el botón Elegir un disfraz con el menú abierto](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+En la pestaña **Disfraces**, puedes seleccionar todas las partes de un disfraz manteniendo presionada la tecla Ctrl de tu teclado y luego presionando la tecla de la letra A. Después podás mover y cambiar el tamaño de cada disfraz para que estén en el lugar correcto.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![imagen de un hombre con antena alienígena en la cabeza](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+Ahora puedes usar las de flecha para recorrer todos tus diferentes disfraces.
+
+![gif animado de un hombre con diferentes disfraces](images/costumes.gif)
 
 --- /task ---
 
