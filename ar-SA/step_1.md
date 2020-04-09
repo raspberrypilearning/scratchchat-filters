@@ -1,12 +1,12 @@
-## Introduction
+## المقدمة
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+ستقوم بإنشاء مشروع لإضافة فلاتر وأزياء مضحكة لصورتك على الشاشة.
 
-### What you will make
+### ما الذي ستصنعه
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+استخدم مفاتيح الأسهم لتغيير حجم الزي الخاص بك ، والأشرطة المنزلقة لتغيير تأثير المرشح. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -18,16 +18,16 @@ Use the arrow keys to change the size of your costume, and the sliders to change
 
 --- collapse ---
 ---
-title: What you will need
+العنوان: ما ستحتاج إليه
 ---
 
 ### Hardware
 
-+ A computer with a webcam
++ كمبيوتر مزود بكاميرا ويب
 
-### Software
+### البرامج
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ برنامج Scratch 3.0 (سواء كان [عبر الإنترنت](http://rpf.io/scratchon) أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
@@ -36,9 +36,9 @@ title: What you will need
 title: What you will learn
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- كيفية التقاط (تسجيل) الفيديو في سكراتش
+- كيفية تغيير تأثيرات اللون
+- كيفية تغيير الأزياء بضغط المفاتيح
 
 --- /collapse ---
 
