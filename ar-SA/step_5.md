@@ -1,30 +1,30 @@
-## Add a colour filter
+## أضف مرشح لون
 
-Now give your image a colour filter.
+الآن قم بإعطاء صورتك مرشح لون.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+انقر فوق ** الخلفية ** أيقونة.
 
-![image showing stage icon](images/stage.png)
+![صورة تظهر أيقونة المسرح](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+استخدم ** الخلفيات ** علامة التبويب إلى ** تحويل إلى صورة نقطية **. ثم استخدم ** دلو الطلاء ** أداة لملء الخلفية بلون واحد.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![صورة توضح الخلفية المملوءة للمسرح](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+ثم استخدم ** دلو الطلاء ** أداة لملء الخلفية بلون واحد. في الجزء الرئيسي ، يمكنك النقر بزر الماوس الأيمن على هذه المتغيرات وتعيينها (جعلها) على هيئة ** منزلقات **.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![صورة توضح المتغيرات التي يتم تغييرها إلى أشرطة التمرير](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+لإنهاء مشروعك ، استخدم هذه المتغيرات لتغيير مظهر المرشح.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+الآن يمكنك تحريك أشرطة التمرير لرؤية التأثير على صورتك.
 
 --- /task ---
 
