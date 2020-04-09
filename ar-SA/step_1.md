@@ -21,7 +21,7 @@
 العنوان: ما ستحتاج إليه
 ---
 
-### Hardware
+### الأجهزة
 
 + كمبيوتر مزود بكاميرا ويب
 
@@ -29,24 +29,24 @@
 
 + برنامج Scratch 3.0 (سواء كان [عبر الإنترنت](http://rpf.io/scratchon) أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff))
 
---- /collapse ---
+---/collapse/ ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: ما الذي ستتعلمه
 ---
 
 - كيفية التقاط (تسجيل) الفيديو في سكراتش
 - كيفية تغيير تأثيرات اللون
 - كيفية تغيير الأزياء بضغط المفاتيح
 
---- /collapse ---
+--- collapse/ ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: معلومات إضافية للمعلمين
 ---
 
 إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
---- /collapse ---
+--- collapse/ ---
