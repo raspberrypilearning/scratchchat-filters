@@ -12,7 +12,7 @@
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![المشروع كامل](images/final.png)
 
 --- /print-only ---
 
@@ -47,6 +47,6 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+إذا كنت بحاجة إلى طباعة هذا المشروع ، فالرجاء استخدام الإصدار [الملائم للطابعة](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
