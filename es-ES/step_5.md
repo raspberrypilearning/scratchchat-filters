@@ -16,7 +16,7 @@ Usa la pestaña **Escenario** para **Convertir a mapa de bits**. Luego usa la he
 
 --- task ---
 
-A continuación, crea dos variables llamadas `filtro de color` {:class="block3variables"} y `cantidad de filtro` {:class="block3variables"}. En el escenario puedes hacer clic con el botón derecho sobre estas variables y establecer ambas como **deslizadores**.
+A continuación, crea dos variables llamadas `color del filtro` {:class="block3variables"} y `cantidad de filtro` {:class="block3variables"}. En el escenario puedes hacer clic con el botón derecho sobre estas variables y establecer ambas como **deslizadores**.
 
 ![imagen mostrando las variables siendo cambiadas a deslizadores](images/sliders.png)
 
