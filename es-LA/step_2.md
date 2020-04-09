@@ -16,7 +16,7 @@ Si necesitas descargar e instalar el editor de Scratch offline, puedes encontrar
 
 Para comenzar tu nuevo proyecto necesitas un objeto. Usarás el objeto para decorar la imagen de ti mismo. Haz clic en el icono de la **Papelera** para eliminar el objeto del gato actual.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
+![imagen mostrando el icono de la basura en el objeto del gato](images/delete-sprite.png)
 
 --- /task ---
 
@@ -24,7 +24,7 @@ Para comenzar tu nuevo proyecto necesitas un objeto. Usarás el objeto para deco
 
 Crea un nuevo objeto haciendo clic en el icono **Elige un objeto**.
 
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![imagen mostrando el ícono de elegir objeto expandido](images/new-sprite.png)
 
 --- /task ---
 
@@ -32,41 +32,41 @@ Crea un nuevo objeto haciendo clic en el icono **Elige un objeto**.
 
 Selecciona el botón **Moda** y elige uno de los objetos. Empezaremos con las gafas.
 
-![image showing fashion sprites](images/fashion.png)
+![imagen mostrando objetos de moda](images/fashion.png)
 
-![image showing the glasses sprite](images/glasses.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
-
-![image showing the add extension button](images/add-extension.png)
+![imagen mostrando el objeto de las gafas](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the **Video Sensing** add-on from the menu provided.
+Haz clic en el botón **Añadir Extensión** en la esquina inferior izquierda.
 
-![image showing the selection of the video extension library](images/video-extension.png)
-
---- /task ---
-
---- task ---
-
-If you are prompted by your web browser, then **Allow** it access to your webcam.
-
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![imagen mostrando el botón añadir extensión](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Elige la extensión **Sensor de Video** del menú que aparece.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![imagen mostrando la selección de la biblioteca de extensiones de video](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Si tu navegador web te lo solicita, entonces **Permite** que acceda a tu cámara web.
+
+![imagen mostrando el indicador del navegador para permitir el acceso a la cámara](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Ahora deberías poder verte en el escenario, y podrás colocar las gafas sobre tu cara.
+
+![imagen mostrando a un hombre con gafas superpuestas sobre su rostro](images/man-with-glasses.png)
 
 --- /task ---
 
