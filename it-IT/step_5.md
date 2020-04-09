@@ -1,30 +1,30 @@
-## Add a colour filter
+## Aggiungi un filtro colorato
 
-Now give your image a colour filter.
+Ora applica alla tua immagine un filtro colorato.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Fai clic sull'icona **Sfondo**.
 
-![image showing stage icon](images/stage.png)
+![immagine che mostra l'icona dello stage](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Usa la scheda **Sfondi** per **Convertire in Bitmap**. Quindi usa lo strumento **Riempimento** per riempire lo sfondo con un colore unico.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![immagine che mostra lo sfondo riempito per lo stage](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Quindi, crea due variabili chiamate `colore filtro`{:class="block3variables"} e `livello filtro`{:class="block3variables"}. Nello stage è possibile fare clic con il tasto destro su queste variabili e impostarle per diventare **cursori**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![immagine che mostra le variabili che vengono cambiate in cursori](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Per terminare il progetto, usa queste variabili per modificare l'aspetto del filtro.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Ora puoi spostare i cursori per vedere l'effetto sulla tua immagine.
 
 --- /task ---
 
