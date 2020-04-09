@@ -1,8 +1,8 @@
-## How to switch costumes
+## Come cambiare i costumi
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Ora che hai gli occhiali posizionati, puoi usare alcune semplici pressioni dei tasti per cambiarne lo stile. Add these code blocks to your sprite.
 
 ```blocks3
 when [right arrow v] key pressed
