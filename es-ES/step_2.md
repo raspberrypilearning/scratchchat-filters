@@ -1,22 +1,22 @@
-## Set up the stage
+## Prepara el escenario
 
 --- task ---
 
-Open a new Scratch project.
+Abre un nuevo proyecto de Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**En línea:** abre un nuevo proyecto de Scratch en línea en [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Sin conexión:** abre un nuevo proyecto en el editor offline (sin conexión).
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Si necesitas descargar e instalar el editor de Scratch offline (sin conexión), puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Para comenzar tu nuevo proyecto necesitas un objeto. Usarás el objeto para decorar la imagen de ti mismo. Haz clic en el icono de la **Papelera** para eliminar el objeto del gato actual.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
+![imagen mostrando el icono de la basura en el objeto del gato](images/delete-sprite.png)
 
 --- /task ---
 
