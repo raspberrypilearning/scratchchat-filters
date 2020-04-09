@@ -1,72 +1,72 @@
-## Set up the stage
+## Zet het podium op
 
 --- task ---
 
-Open a new Scratch project.
+Open een nieuw Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** open een nieuw online Scratch-project op [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Offline:** open een nieuw project in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Om je nieuwe project te beginnen heb je een sprite nodig. Je gebruikt de sprite om de afbeelding van jezelf te versieren. Klik op het pictogram **Prullenbak** om de huidige kat-sprite te verwijderen.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![afbeelding met prullenbakpictogram op kat-sprite](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Maak een nieuwe sprite door te klikken op het pictogram **Kies een Sprite**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![afbeelding met het uitgevouwen kies sprite icoon](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Selecteer de **Mode** knop en kies een van de sprites. Hier beginnen we met de bril.
 
-![image showing the add extension button](images/add-extension.png)
+![afbeelding met mode sprites](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![afbeelding met de bril sprite](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Klik op de knop **Voeg een uitbreiding toe** in de linkerbenedenhoek van het scherm.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![afbeelding met de knop voor het toevoegen van een uitbreiding](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Kies de uitbreiding **Video** in het menu.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![afbeelding die de selectie van de video-uitbreidingsbibliotheek toont](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Als je erom wordt gevraagd door je webbrowser, geef je met **Toestaan** toegang tot je webcam.
+
+![afbeelding met browservraag om toegang tot de camera toe te staan](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Je zou jezelf nu op het podium moeten kunnen zien en je kunt de bril over je gezicht plaatsen.
+
+![afbeelding van een man met een bril bovenop zijn gezicht](images/man-with-glasses.png)
 
 --- /task ---
 
