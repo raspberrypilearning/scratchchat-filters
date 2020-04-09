@@ -1,3 +1,3 @@
-## What next?
+## ¿Qué sigue?
 
-Now that you've completed this project, have a look at some of our other [funny projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
+Ahora que has completado este proyecto, echa un vistazo a algunos de nuestros otros [proyectos divertidos](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
