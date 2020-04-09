@@ -16,7 +16,7 @@ Usa la pestaña **Fondos** para **Convertir a mapa de bits**. Luego usa la herra
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+A continuación, crea dos variables llamadas `filtro color`{:class="block3variables"} y `filtro cantidad`{:class="block3variables"}. En el escenario, puedes hacer clic derecho en estas variables y configurarlas para que sean **deslizadores**.
 
 ![image showing the variables being changed to sliders](images/sliders.png)
 
@@ -24,21 +24,21 @@ Next, create two variables called `filter colour`{:class="block3variables"} and 
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Para terminar tu proyecto, utiliza estas variables para alterar el aspecto del filtro.
 
 ```blocks3
-when flag clicked
-turn video (on v)
-forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+cuando se hace clic en la bandera
+activa el video ( v)
+para siempre
+establece la transparencia del video en (cantidad de filtro)
+establece el efecto [color v] en (color de filtro)
 ```
 
 --- /task ---
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Ahora puedes mover los deslizadores para ver el efecto en tu imagen.
 
 --- /task ---
 
