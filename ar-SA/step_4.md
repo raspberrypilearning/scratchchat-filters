@@ -1,10 +1,10 @@
-## More costume controls
+## المزيد من عناصر التحكم في المظاهر
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+يمكنك الآن إضافة عناصر تحكم لتغيير حجم الرموز المتحركة وتحديد ما إذا كانت الصورة معروضة أو مخفية.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+أضف هذه اللبنات (المقطع البرمجي) لجعل المظاهر تظهر وتختفي.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+أضف الآن المزيد من اللبنات (الكود البرمجي) لتغيير حجم الزي.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+تحقق مما إذا كان يمكنك إضافة المزيد من عناصر التحكم لتغيير موقع المظاهر.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+استخدم أي مفاتيح ترغب في زيادة أو تقليل موقع المظاهر (الكائن) باستخدام ` تغيير x بواسطة ` {: class = "block3motion"} و ` غيّر y حسب ` {: class = "block3motion"} اللبنات (الكود البرمجي)
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+إليك لبنتان (الكود البرمجي) تحريك المظاهر (الكائن) إلى اليسار.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+إليك جميع التعليمات البرمجية التي تحتاجها ، ولكن اختر أي مفاتيح تريدها للمظهر (الكائن) الخاص بك.
 
 ```blocks3
 when [j v] key pressed
