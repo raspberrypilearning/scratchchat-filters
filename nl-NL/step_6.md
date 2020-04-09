@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## Uitdaging: meer willekeur
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+Kun je een willekeur knop aan je filters toevoegen? Misschien dat wanneer op een sprite wordt geklikt de `filter kleur`{:class="block3variables"} en de `filter dichtheid`{:class="block3variables"} willekeurig verandert en een willekeurig uiterlijk wordt gekozen.
