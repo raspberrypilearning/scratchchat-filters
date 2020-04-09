@@ -8,7 +8,7 @@ Haz clic en el icono **Fondo**.
 
 ![image showing stage icon](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Usa la pestaña **Fondos** para **Convertir a mapa de bits**. Luego usa la herramienta **Cubo de pintura** para llenar el fondo con un solo color.
 
 ![image showing the filled in backdrop for the stage](images/paint-bucket.png)
 
