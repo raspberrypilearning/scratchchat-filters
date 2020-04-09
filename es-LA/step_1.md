@@ -1,6 +1,6 @@
-## Introduction
+## Introducción
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Vas a hacer un proyecto para agregar filtros y disfraces tontos a tu imagen en la pantalla.
 
 ### What you will make
 
