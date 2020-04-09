@@ -1,10 +1,10 @@
-## More costume controls
+## Più comandi sui costumi
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Ora puoi aggiungere comandi per cambiare la dimensione dello sprite e anche decidere se l'immagine viene mostrata o nascosta.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Aggiungi questi blocchi per far apparire e scomparire lo sprite.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Ora aggiungi altri blocchi per cambiare la dimensione del costume.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Prova se riesci ad aggiungere altri controlli per cambiare la posizione dello sprite.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Usa i tasti che preferisci per aumentare o diminuire la posizione dello sprite usando i blocchi `cambia x di`{:class="block3motion"} e `cambia y di`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Ecco due blocchi che spostano lo sprite a sinistra.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Ecco tutto il codice che ti serve, ma scegli i tasti che preferisci per muovere il tuo sprite.
 
 ```blocks3
 when [j v] key pressed
