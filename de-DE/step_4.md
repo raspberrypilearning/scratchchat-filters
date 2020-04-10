@@ -1,6 +1,6 @@
-## More costume controls
+## Mehr Kostümsteuerung
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Du kannst jetzt auch Steuerungselemente hinzufügen, um die Größe der Figur zu ändern und um zu entscheiden ob das Bild angezeigt oder versteckt wird.
 
 --- task ---
 
