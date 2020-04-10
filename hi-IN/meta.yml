@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: स्क्रैचचैट फिल्टर
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: खुद की छवियों के लिए आकर्षक फिल्टर और चित्र जोड़ें
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Set up the stage
+    title: मंच सेट करें
   - 
-    title: How to switch costumes
+    title: वेशभूषा कैसे बदलें
   - 
-    title: More costume controls
+    title: अधिक पोशाक नियंत्रण
   - 
-    title: Add a colour filter
+    title: एक रंग फिल्टर जोड़ें
   - 
-    title: "Challenge: Add some randomness"
+    title: "चुनौती: कुछ मनमानी करें और जोड़ें"
     challenge: true
   - 
-    title: What next?
+    title: आगे क्या?
