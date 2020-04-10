@@ -1,44 +1,44 @@
-## Introduction
+## Einleitung
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Du wirst ein Projekt erstellen, um einem Bild von dir auf dem Bildschirm Filter und alberne Kostüme hinzuzufügen.
 
-### What you will make
+### Was du machen wirst
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Benutze die Pfeiltasten, um die Größe deines Kostüms zu ändern und die Schieberegler, um den Filtereffekt zu ändern. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Fertiges Projekt](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Was du brauchen wirst
 ---
 
 ### Hardware
 
-+ A computer with a webcam
++ Ein Computer mit einer Webcam
 
 ### Software
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (entweder [online](http://rpf.io/scratchon) oder [offline](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Was du lernen wirst
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Wie du in Scratch Videos aufnimmst
+- Wie du Farbeffekte änderst
+- Wie du Kostüme per Tastendruck wechselst
 
 --- /collapse ---
 
