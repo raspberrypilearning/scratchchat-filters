@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## Wyzwanie: Dodaj trochę losowości
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+Czy jesteś w stanie dodać przycisk odpowiadający za losowość? Na przykład, gdy przycisk został naciśnięty, wartości zmiennych `Kolor filtra`{:class="block3variables"} i `Intensywność filtra`{:class="block3variables"} są ustawiane losowo, a dodatkowo wybierany jest losowy kostium.
