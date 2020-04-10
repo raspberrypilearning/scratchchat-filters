@@ -1,12 +1,12 @@
 ## Introduction
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Będziesz tworzyć projekt dodający filtry i zabawne kostiumy do twojego obrazu na ekranie.
 
-### What you will make
+### Co stworzysz
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Użyj klawiszy strzałek, aby zmienić rozmiar kostiumu, a suwaków, aby zmienić efekt filtra. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
