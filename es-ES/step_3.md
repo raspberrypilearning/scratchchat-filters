@@ -5,8 +5,8 @@
 Ahora que tienes las gafas colocadas, puedes cambiar su estilo simplemente pulsando unas teclas. Añade estos bloques de código a tu objeto.
 
 ```blocks3
-al presionar [flecha derecha v] 
-siguiente disfraz
+when [flecha derecha v] key pressed
+next costume
 ```
 
 --- /task ---
