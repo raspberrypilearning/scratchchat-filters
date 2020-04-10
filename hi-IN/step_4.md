@@ -1,10 +1,10 @@
-## More costume controls
+## अधिक पोशाक नियंत्रण
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+आप अब स्प्राइट के आकार को बदलने के लिए नियंत्रण जोड़ सकते हैं और आप यह भी तय कर सकते हैं कि छवि दिखाई जाए या छिपाई जाए।
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+स्प्राइट दिखाई देने और गायब होने के लिए इन ब्लॉकों को जोड़ें।
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+अब कोस्टयूम के आकार को बदलने के लिए कुछ और ब्लॉक जोड़ें।
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+देखें कि क्या आप स्प्राइट की स्थिति को बदलने के लिए कुछ और नियंत्रण जोड़ सकते हैं।
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+अपनी पसंद की किसी भी कुंजी का उपयोग करके स्प्राइट की स्थिति को बढ़ाने या घटाने के लिए `change x by`{:class="block3motion"} और `change y by`{:class="block3motion"} ब्लॉक का उपयोग करें
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+यहां दो ब्लॉक हैं जो स्प्राइट को बाईं ओर ले जाते हैं।
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+यहां आपके लिए आवश्यक सभी कोड हैं लेकिन आप अपने स्प्राइट के लिए अपनी पसंद की कोई भी कुंजी चुन सकते हैं।
 
 ```blocks3
 when [j v] key pressed
