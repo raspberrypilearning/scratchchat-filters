@@ -56,7 +56,7 @@ Wähle das Add-On **Video-Erafassung** aus dem bereitgestellten Menü.
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Wenn du von deinem Web-Browser aufgefordert wirst, dann **erlaube** ihm Zugriff auf deine Webcam.
 
 ![Bild das die Browseraufforderung für die Zugriffserlaubnis auf die Kamera zeigt](images/allow-camera.png)
 
