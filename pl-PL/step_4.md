@@ -1,10 +1,10 @@
-## More costume controls
+## Więcej ustawień kostiumów
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Teraz możesz dodać kod, który umożliwi Ci zmianę rozmiaru duszka i zdecydowanie czy ma być on widoczny, czy ukryty.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Dodaj te bloki, by sprawić, że duszek będzie mógł pojawiać się i znikać.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Teraz dodaj więcej bloków do Twojego kodu, tak by można było zmienić rozmiar kostiumu.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Sprawdź, czy jesteś w stanie kontrolować pozycję duszka.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Wybierz, które klawisze mają zmieniać położenie duszka. Aby zmieniać jego pozycję zwiększaj lub zmniejszaj wartości współrzędnych x i y za pomocą poleceń `zmień x o`{class="block3motion"} i `zmień y o`{class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Oto dwa bloki, które powodują przesunięcie się duszka w lewo.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Oto cały kod, którego potrzebujesz, ale wybierz własne klawisze do zmiany pozycji duszka.
 
 ```blocks3
 when [j v] key pressed
