@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## चुनौती: कुछ मनमानी जोड़ें
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+क्या आप अपने फ़िल्टर में एक मनमानी का बटन जोड़ सकते हैं? हो सकता है कि जब किसी स्प्राइट पर क्लिक किया जाता है तो `filter colour`{:class="block3variables"} और `filter amount`{:class="block3variables"} मनमाने ढंग से बदल दिया जाता है और किसी भी मनमानी या अनोखी पोशाक को चुन लिया जाता है।
