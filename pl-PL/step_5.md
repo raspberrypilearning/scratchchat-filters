@@ -1,30 +1,30 @@
-## Add a colour filter
+## Dodaj filtr koloru
 
 Teraz dodaj do swojego obrazka kolorowy filtr.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Naciśnij ikonę **Scena**.
 
-![image showing stage icon](images/stage.png)
+![obrazek pokazujący ikonę sceny](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Wejdź w zakładkę **Tła** i naciśnij przycisk **Przekształć w bitmapę**. Potem użyj narzędzia **Wypełnij**, aby pomalować tło jednym kolorem.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
-
---- /task ---
-
---- task ---
-
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
-
-![image showing the variables being changed to sliders](images/sliders.png)
+![obrazek pokazujący wypełnione tło sceny](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Następnie stwórz dwie zmienne, które nazwiesz `Kolor filtra`{:class="block3variables"} i `Intensywność filtra`{:class="block3variables"}. Kliknij prawym przyciskiem myszy na zmienne, które właśnie pojawiły się na scenie i z rozwijanego menu wybierz opcję **suwak**.
+
+![obrazek pokazujący zmienne będące zmieniane w suwaki](images/sliders.png)
+
+--- /task ---
+
+--- task ---
+
+Aby dokończyć swój projekt, użyj tych zmiennych, by wpływać na efekt użytego filtra.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Teraz możesz przesuwać suwaki i obserwować zmiany na twoim obrazku.
 
 --- /task ---
 
