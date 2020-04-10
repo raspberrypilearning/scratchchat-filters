@@ -1,72 +1,72 @@
-## Set up the stage
+## Przygotuj scenę
 
 --- task ---
 
-Open a new Scratch project.
+Otwórz nowy projekt Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** otwórz nowy projekt online Scratcha pod adresem [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Offline:** otwórz nowy projekt w edytorze offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Jeśli musisz pobrać i zainstalować edytor offline Scratcha, znajdziesz go na stronie [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Aby rozpocząć nowy projekt, potrzebujesz duszka. Użyjesz go, aby przyozdobić nim swój wizerunek. Kliknij ikonę **Kosza** aby usunąć duszka kota.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![obraz przedstawiający ikonę kosza na duszku kota](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Utwórz nowego duszka, klikając ikonę **Wybierz duszka**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![obraz przedstawiający rozwinięte menu wyboru duszka](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Naciśnij przycisk **Moda** i wybierz jednego z duszków. W tym projekcie będziemy używać duszka okularów.
 
-![image showing the add extension button](images/add-extension.png)
+![obraz przedstawiający duszki z grupy moda](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![obraz przedstawiający duszka okularów](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Kliknij przycisk **Dodaj rozszerzenie** w lewym dolnym rogu ekranu.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![obraz przedstawiający przycisk dodawania rozszerzenia](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Wybierz dodatek **Czujniki wideo** z dostępnego menu.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![obraz pokazujący wybór biblioteki rozszerzeń wideo](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Jeśli wyświetli się prośba o przyznanie uprawnień do obrazu z kamerki internetowej, naciśnij przycisk **Udostępnij**.
+
+![obraz pokazujący monit przeglądarki, aby umożliwić dostęp do kamery](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Teraz na scenie powinna pojawić się Twoja twarz. Możesz umieścić na niej okulary.
+
+![zdjęcie przedstawiające mężczyznę w okularach nałożonych na jego twarz](images/man-with-glasses.png)
 
 --- /task ---
 
