@@ -1,8 +1,8 @@
-## How to switch costumes
+## पोशाक कैसे बदलें
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+अब जब आपने अपना चश्मा लगा दिया है तो आप उनकी शैली को बदलने के लिए कुछ आसान कुंजियों (key presses) का उपयोग कर सकते हैं| इन कोड ब्लॉक को अपने स्प्राइट में जोड़ें।
 
 ```blocks3
 when [right arrow v] key pressed
@@ -13,15 +13,15 @@ next costume
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+चश्मे का स्टाइल बदलने के लिए अपने कीबोर्ड पर दाएं तीर वाला बटन दबाएं।
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![दिल के आकार का चश्मा पहने हुए एक आदमी की छवि](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+आप बाएं तीर वाले बटन का उपयोग करके पिछले पोशाक में वापस जा सकते हैं| ऐसा करने के लिए आपको `costume number`{:class="block3looks"} का उपयोग करना होगा और इसमें से `1` को घटाना होगा।
 
 ```blocks3
 when [left arrow v] key pressed
@@ -32,25 +32,25 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+अपने स्प्राइट में कुछ और पोशाक जोड़ने के लिए **Costumes** टैब पर क्लिक करें और फिर स्क्रीन के निचले बाएं कोने में **Choose a Costume** बटन चुनें।
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![choose a costume बटन दिखाने वाली छवि](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+उस **Costumes** टैब में आप अपने कीबोर्ड पर Ctrl कुंजी (key) दबाकर और फिर अक्षर A कुंजी दबाकर एक पोशाक के सभी भागों को चुन सकते हैं। फिर आप प्रत्येक पोशाक की स्थिति और आकार बदल सकते हैं ताकि वे सही जगह पर हों।
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![उसके सिर पर विदेशी एंटीना के साथ आदमी की छवि](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+अब आप तीर कुंजियों (arrow keys) का उपयोग करके अपने सभी अलग-अलग वेशभूषा को देख सकते हैं।
+
+![विभिन्न वेशभूषा वाले एक आदमी का एनिमेटेड जिफ़](images/costumes.gif)
 
 --- /task ---
 
