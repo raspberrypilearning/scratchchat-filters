@@ -1,24 +1,24 @@
-## Add a colour filter
+## Farbfilter hinzufügen
 
 Now give your image a colour filter.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Klicke auf das **Bühnenbild**-Symbol.
 
 ![image showing stage icon](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Benutze die **Bühnenbilder**-Registerkarte um **in eine Vektorgrafik umzuwandeln**. Nutze dann das **Fülleimer** Werkzeug, um den Bühnenhintergrund mit einer einzigen Farbe zu füllen.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![Bild das den gefüllten Bühnenhintergrund für die Bühne zeigt](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. Du kannst auf der Bühne, mit der rechten Maustaste auf diese Variablen klicken um sie beide **Schieberegler** sein zu lassen.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![Bild das zeigt wie die Variablen zu Schiebereglern geändert werden](images/sliders.png)
 
 --- /task ---
 
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Du kannst jetzt die Schieberegler bewegen um den Effekt auf deinem Bild zu sehen.
 
 --- /task ---
 
