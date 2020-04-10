@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: ScratchChatフィルター
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: 自分の画像 (がぞう) にかっこいいフィルターと画像を追加 (ついか) する
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Set up the stage
+    title: ステージを作る
   - 
-    title: How to switch costumes
+    title: コスチュームの切りかえ方
   - 
-    title: More costume controls
+    title: コスチュームのコントロール
   - 
     title: Add a colour filter
   - 
-    title: "Challenge: Add some randomness"
+    title: "チャレンジ: ランダムにしてみよう"
     challenge: true
   - 
-    title: What next?
+    title: 次は何をしましょうか？
