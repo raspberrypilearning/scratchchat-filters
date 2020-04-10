@@ -8,7 +8,7 @@ Click on the **Backdrop** icon.
 
 ![image showing stage icon](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+**Convert to Bitmap** करने के लिए **Backdrops** टैब का उपयोग करें | फिर एक रंग के साथ बैकड्रॉप को भरने के लिए **Paint bucket** का उपयोग करें।
 
 ![image showing the filled in backdrop for the stage](images/paint-bucket.png)
 
@@ -16,7 +16,7 @@ Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket*
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+इसके बाद `filter colour`{:class="block3variables"} और `filter amount`{:class="block3variables"} नामक दो वेरियबल (variable) बनाएं | मंच पर आप इन वेरियबल पर राइट-क्लिक कर सकते हैं और उन दोनों को **स्लाइडर्स** (sliders) के रूप में सेट कर सकते हैं |
 
 ![image showing the variables being changed to sliders](images/sliders.png)
 
