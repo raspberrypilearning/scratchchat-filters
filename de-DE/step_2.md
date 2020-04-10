@@ -16,7 +16,7 @@ Wenn du den Scratch-Offline-Editor herunterladen und installieren möchtest, fin
 
 Um mit deinem neuen Projekt zu starten, benötigst du eine Figur. Du wirst die Figur verwenden, um das Bild von dir selbst zu dekorieren. Klicke auf das **Papierkorb**-Symbol, um die aktuelle Katzenfigur zu löschen.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
+![Bild das das Papierkorb-Symbol auf Katzenfigur zeigt](images/delete-sprite.png)
 
 --- /task ---
 
@@ -24,7 +24,7 @@ Um mit deinem neuen Projekt zu starten, benötigst du eine Figur. Du wirst die F
 
 Erstelle eine neue Figur, indem du auf das **Figur wählen**-Symbol klickst.
 
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![Bild das das erweiterte Figur-Wählen-Symbol zeigt](images/new-sprite.png)
 
 --- /task ---
 
@@ -32,25 +32,25 @@ Erstelle eine neue Figur, indem du auf das **Figur wählen**-Symbol klickst.
 
 Wähle die Schaltfläche **Mode** und such dir eine Figur aus. Hier fangen wir mit der Brille an.
 
-![image showing fashion sprites](images/fashion.png)
+![Bild das Mode-Figuren zeigt](images/fashion.png)
 
-![image showing the glasses sprite](images/glasses.png)
-
---- /task ---
-
---- task ---
-
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
-
-![image showing the add extension button](images/add-extension.png)
+![Bild das die Brillen-Figur zeigt](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the **Video Sensing** add-on from the menu provided.
+Klicke auf die **Erweiterung hinzufügen** Schaltfläche in der unteren linken Ecke des Bildschirms.
 
-![image showing the selection of the video extension library](images/video-extension.png)
+![Bild das die Schaltfläche Erweiterung hinzufügen zeigt](images/add-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Wähle das Add-On **Video-Erafassung** aus dem bereitgestellten Menü.
+
+![Bild das die Auswahl der Video-Erfassung Erweiterung zeigt](images/video-extension.png)
 
 --- /task ---
 
@@ -58,13 +58,13 @@ Choose the **Video Sensing** add-on from the menu provided.
 
 If you are prompted by your web browser, then **Allow** it access to your webcam.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![Bild das die Browseraufforderung für die Zugriffserlaubnis auf die Kamera zeigt](images/allow-camera.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Du solltest dich jetzt auf der Bühne sehen und die Brille über deinem Gesicht positionieren können.
 
 ![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
 
