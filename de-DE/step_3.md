@@ -40,7 +40,7 @@ Um deiner Figur weitere Kostüme hinzuzufügen, klicke auf die Registerkarte **K
 
 --- task ---
 
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. Du kannst dann jedes Kostüm verschieben und seine Größe ändern, damit es sich an der richtigen Stelle befindet.
+Auf der Registerkarte **Kostüme** kannst du alle Teile eines Kostüms auswählen, indem du die Strg-Taste auf Ihrer Tastatur gedrückt hältst und dann die Taste A drückst. Du kannst dann jedes Kostüm verschieben und seine Größe ändern, damit es sich an der richtigen Stelle befindet.
 
 ![Bild eines Mannes mit Alien-Antenne auf seinem Kopf](images/alien-antenna.png)
 
