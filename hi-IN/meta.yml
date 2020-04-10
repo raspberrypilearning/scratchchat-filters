@@ -1,0 +1,17 @@
+---
+title: स्क्रैचचैट फिल्टर
+hero_image: images/banner.png
+description: खुद की छवियों के लिए आकर्षक फिल्टर और चित्र जोड़ें
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-04-01"
+steps:
+  - title: परिचय
+  - title: मंच सेट करें
+  - title: वेशभूषा कैसे बदलें
+  - title: अधिक पोशाक नियंत्रण
+  - title: एक रंग फिल्टर जोड़ें
+  - title: "चुनौती: कुछ मनमानी करें और जोड़ें"
+    challenge: true
+  - title: आगे क्या?
