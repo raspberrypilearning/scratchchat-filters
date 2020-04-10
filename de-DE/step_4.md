@@ -4,7 +4,7 @@ Du kannst jetzt auch Steuerungselemente hinzufügen, um die Größe der Figur zu
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Füge diese Blöcke hinzu, um die Figur erscheinen und verschwinden zu lassen.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Füge nun ein paar weitere Blöcke hinzu, um die Größe des Kostüms zu ändern.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Schau mal, ob du noch weitere Steuerelemente hinzufügen kannst um die Position der Figur zu ändern.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Verwende Tasten deiner Wahl, um die Position deiner Figur zu erhöhen oder zu verringern, indem du die `ändere x um`{:class="block3motion"} und `ändere y um`{:class="block3motion"} Blöcke benutzt
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Hier sind zwei Blöcke, die die Figur nach links bewegen.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Hier ist der gesamte Code, den du brauchst, aber wähle welche Tasten auch immer du willst, für deine Figur.
 
 ```blocks3
 when [j v] key pressed
