@@ -1,4 +1,4 @@
-## Introduction
+## परिचय
 
 You're going to make a project to add filters and silly costumes to your image on the screen.
 
