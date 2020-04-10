@@ -1,72 +1,72 @@
-## Set up the stage
+## मंच सेट करें
 
 --- task ---
 
-Open a new Scratch project.
+एक नई Scratch परियोजना खोलिये।
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**ऑनलाइन:** [rpf.io/scratch-new](https://rpf.io/scratch-new)पर एक नई ऑनलाइन स्क्रैच परियोजना खोलें।
 
-**Offline:** open a new project in the offline editor.
+**ऑफ़लाइन:** ऑफ़लाइन संपादक में एक नई परियोजना खोलें।
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+यदि आपको स्क्रैच ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की आवश्यकता है, तो आप इसे [rpf.io/scratchoff](https://rpf.io/scratchoff) {:target="_blank"} पर पा सकते हैं।
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+आपको अपनी नई परियोजना शुरू करने के लिए स्प्राइट (sprite) की आवश्यकता होगी। आप ख़ुद की छवि को सजाने के लिए स्प्राइट का उपयोग करेंगे। बिल्ली स्प्राइट को हटाने के लिए **Trash** आइकन पर क्लिक करें।
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![कैट स्प्राइट पर ट्रैश आइकन दिखाती छवि](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+**Choose a Sprite** आइकन पर क्लिक करके एक नया स्प्राइट बनाएं।
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![विस्तारित 'Choose a Sprite' दिखाने वाली छवि](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+**Fashion** बटन चुनें और स्प्राइट्स में से किसी एक को चुनें। यहाँ हम चश्मे से शुरू करेंगे।
 
-![image showing the add extension button](images/add-extension.png)
+![छवि 'Fashion' स्प्राइट दिखाती है](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![छवि चश्मा दिखाती है](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+स्क्रीन के निचले बाएँ कोने में **Add Extension** बटन पर क्लिक करें।
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![add Extension बटन दिखाने वाली छवि](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+दिए गए मेन्यू (menu) से **Video Sensing** ऐड-ऑन (add-on) चुनें।
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![वीडियो एक्सटेंशन लाइब्रेरी के चयन को दिखाने वाली छवि](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+यदि आपको अपने वेब ब्राउज़र द्वारा संकेत दिया जाता है तो इसे अपने वेबकैम तक पहुंचने की की अनुमति देने के लिए **Allow** पर क्लिक करें।
+
+![छवि कैमरे के उपयोग की अनुमति देने के लिए ब्राउज़र संकेत को दिखाती है](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+अब आप मंच पर खुद को देख पाएंगे और अपने चेहरे पर चश्मा लगा सकते हैं।
+
+![चेहरे पर चश्मे के साथ एक आदमी की छवि](images/man-with-glasses.png)
 
 --- /task ---
 
