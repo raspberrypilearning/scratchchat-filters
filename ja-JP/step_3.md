@@ -1,27 +1,27 @@
-## How to switch costumes
+## コスチュームの切りかえ方
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Now that you have your glasses positioned, you can use some simple key presses to change their style. このコードブロックをスプライトに追加します。
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+[右向き矢印v] キーが押されたとき
+次のコスチュームにする
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+キーボードの右矢印キーを押して (おして)、メガネが変わることをたしかめましょう。
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![ハートがたのメガネをかけている男の人の画像](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+左矢印キーを使用して、前のコスチュームにもどるようにもしたいですね。 これを行うには、 `コスチューム番号`{:class="block3looks"}を使い、 `1` を引き算する必要があります。
 
 ```blocks3
 when [left arrow v] key pressed
