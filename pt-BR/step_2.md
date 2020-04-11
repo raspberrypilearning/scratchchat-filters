@@ -1,72 +1,72 @@
-## Set up the stage
+## Preparar o palco
 
 --- task ---
 
-Open a new Scratch project.
+Abra um novo projeto Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** abra um novo projeto Scratch online em [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Offline:** abra um novo projeto no editor offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Se você precisa baixar e instalar o editor do Scratch offline, você pode encontrá-lo em [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Para iniciar seu novo projeto, você precisa de um ator. Você usará o ator para decorar a imagem de você mesmo. Clique no ícone **Lixeira** para excluir o ator gato atual.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![imagem mostrando o ícone de lixeira no ator gato](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Crie um novo ator clicando no ícone **Selecione um Ator**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![imagem mostrando o ícone expandido selecione um ator](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Selecione o botão **Moda** e escolha um dos atores. Here we'll start with the glasses.
 
-![image showing the add extension button](images/add-extension.png)
+![imagem mostrando atores moda](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![imagem mostrando o ator óculos](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Clique no botão **Adicionar uma Extensão** no canto inferior esquerdo da tela.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![imagem mostrando o botão adicionar uma extensão](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Escolha o extensão **Detecção de Vídeo** no menu fornecido.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![imagem mostrando a seleção da biblioteca de extensão de vídeo](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Se você for solicitado pelo seu navegador da web, **Permitir** que acesse sua webcam.
+
+![imagem mostrando o prompt do navegador para permitir acesso à câmera](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Agora você deve ser capaz de se ver no palco, e você pode posicionar os óculos sobre o seu rosto.
+
+![imagem mostrando um homem de óculos sobreposto ao rosto](images/man-with-glasses.png)
 
 --- /task ---
 
