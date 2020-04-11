@@ -1,30 +1,30 @@
-## Add a colour filter
+## Adaugă un filtru pentru culoare
 
-Now give your image a colour filter.
+Acum dă imaginii tale un filtru pentru culoare.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Dă click pe pictograma **Alege un decor**.
 
-![image showing stage icon](images/stage.png)
+![imagine care arată pictograma scena](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Folosește fila **Decoruri** pentru a **Converti în format vectorial**. Apoi folosește unealta **Umplere** pentru a umple fundalul cu o singură culoare.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![imagine care arată decorul umplut pentru scenă](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Apoi, creează două variabile numite `filtru culoare`{:class="block3variables"} și `filtru valoare`{:class="block3variables"}. Pe scenă poți da click dreapta pe aceste variabile și să le setezi pe amândouă ca fiind **cursoare**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![imagine care arată variabilele schimbate în cursoare](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Pentru a termina proiectul, folosește aceste variabile pentru a schimba aspectul filtrului.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Acum poți muta cursoarele pentru a vedea efectul asupra imaginii tale.
 
 --- /task ---
 
