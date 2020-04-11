@@ -1,4 +1,4 @@
-## Add a colour filter
+## 色フィルターを追加する
 
 Now give your image a colour filter.
 
