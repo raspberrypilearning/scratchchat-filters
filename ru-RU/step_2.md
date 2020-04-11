@@ -1,72 +1,72 @@
-## Set up the stage
+## Подготавливаем сцену
 
 --- task ---
 
-Open a new Scratch project.
+Открой новый проект Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Онлайн:** открой новый онлайн проект Scratch по адресу [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Офлайн:** открой новый проект в автономном редакторе.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Если тебе необходимо скачать и установить оффлайн редактор Scratch, то ты можешь найти его по адресу [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Чтобы начать новый проект, тебе нужен спрайт. Ты будешь использовать спрайт, чтобы украсить свой образ. Нажми на иконку **Корзина**, чтобы удалить текущий спрайт кота.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![изображение с иконкой корзины на спрайте Кот](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Создай новый спрайт, нажав на иконку **Выберите спрайт**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![изображение, показывающее иконку с расширенным выбором спрайта](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Нажми кнопку **Мода** и выбери один из спрайтов. Здесь мы начнем с очков.
 
-![image showing the add extension button](images/add-extension.png)
+![изображение, показывающее спрайты моды](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![изображение, показывающее спрайт очки](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Нажми кнопку **Добавить расширение** в левом нижнем углу.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![изображение, показывающее кнопку добавления расширения](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Выбери дополнение **Видео распознавание** из предоставленного меню.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![изображение, показывающее выбор из библиотеки расширений видео](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Если твой веб-браузер запрашивает, то **Разреши** доступ к своей веб-камере.
+
+![изображение, показывающее запрос браузера, чтобы разрешить доступ к камере](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Теперь ты можешь увидеть себя на сцене и ты можешь поместить очки на лицо.
+
+![изображение мужчины в очках, наложенных на его лицо](images/man-with-glasses.png)
 
 --- /task ---
 
