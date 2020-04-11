@@ -1,54 +1,54 @@
-## Set up the stage
+## ステージを作る
 
 --- task ---
 
-Open a new Scratch project.
+新しい Scratch プロジェクトを開きます。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**オンライン: ** [rpf.io/scratch-new](https://rpf.io/scratch-new)で新しいオンライン Scratch プロジェクトを開きます。
 
-**Offline:** open a new project in the offline editor.
+**オフライン: **オフラインエディターで新しいプロジェクトを開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Scratch オフラインエディターは[rpf.io/scratchoff](https://rpf.io/scratchoff)からダウンロードしてインストールできます。
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+新しいプロジェクトを始めるには、スプライトが必要です。 スプライトを使って、自分の画像 (がぞう) をかざります。 **ゴミ箱**のアイコンをクリックして、ネコのスプライトを削除 (さくじょ) します。
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![ネコのスプライトのゴミ箱アイコンをしめす画像](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+**スプライトを選ぶ** (えらぶ) アイコンをクリックして、新しいスプライトを作ります。
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![展開 (てんかい) された「スプライトを選ぶ」アイコンをしめす画像](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+**ファッション** ボタンをクリックし、スプライトを1つ選び (えらび) ます。 ここでは、glasses (メガネ) から始めましょう。
 
-![image showing the add extension button](images/add-extension.png)
+![ファッションスプライトをしめす画像](images/fashion.png)
+
+![メガネのスプライトをしめす画像](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-Choose the **Video Sensing** add-on from the menu provided.
+画面の左下すみにある **拡張機能を追加** (かくちょうきのうをついか) ボタンをクリックします。
+
+![拡張機能の追加ボタンをしめす画像](images/add-extension.png)
+
+--- /task ---
+
+--- task ---
+
+メニューから **ビデオモーションセンサー** アドオンを選びます。
 
 ![image showing the selection of the video extension library](images/video-extension.png)
 
