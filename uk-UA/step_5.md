@@ -1,30 +1,30 @@
-## Add a colour filter
+## Додай кольоровий фільтр
 
-Now give your image a colour filter.
+Тепер додай до свого зображення кольоровий фільтр.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Натисни на значок **Сцена**.
 
-![image showing stage icon](images/stage.png)
+![зображення, що показує значок сцени](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Використай вкладку **Тло**, щоб перевести зображення **У растрове**. Далі використовуй інструмент **Заповення**, щоб залити тло суцільним кольором.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![зображення, що показує заповнене тло сцени](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Потім створи дві змінні з іменами `колір фільтру`{:class="block3variables"} та `прозорість фільтру`{:class="block3variables"}. На сцені ти можеш клацнути правою клавішою мишки по цих змінних і перетворити їх на **слайдери**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![зображення, що показує перетворення змінних у слайдери](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Для завершення проєкту, використай ці змінні для зміни вигляду фільтра.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Тепер ти можеш рухати слайдери, щоб бачити ефект на своєму зображенні.
 
 --- /task ---
 
