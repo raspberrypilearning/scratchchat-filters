@@ -1,12 +1,12 @@
 ## 色フィルターを追加する
 
-Now give your image a colour filter.
+次に、画像に色フィルターを設定 (せってい) します。
 
 --- task ---
 
-Click on the **Backdrop** icon.
+**背景** (はいけい) アイコンをクリックします。
 
-![image showing stage icon](images/stage.png)
+![ステージアイコンを表す画像](images/stage.png)
 
 Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
 
