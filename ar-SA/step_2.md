@@ -10,7 +10,7 @@
 
 لتنزيل و تركيب محرر Scratch على جهازك الشخصي، يمكنك الحصول عليه من هنا [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
---- task ---
+--- /task ---
 
 --- task ---
 
@@ -18,7 +18,7 @@
 
 ![صورة تظهر أيقونة سلة المهملات على كائن القطة](images/delete-sprite.png)
 
---- task/ ---
+--- /task ---
 
 --- task ---
 
