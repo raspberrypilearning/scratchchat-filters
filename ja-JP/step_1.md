@@ -1,12 +1,12 @@
 ## はじめに
 
-画面上の画像にフィルターとおかしなコスチュームを追加 (ついか) するプロジェクトを作ります。
+画面上の画像 (がぞう) にフィルターとおかしなコスチュームを追加 (ついか) するプロジェクトを作ります。
 
 ### 作るもの
 
 --- no-print ---
 
-方向キーを使ってコスチュームのサイズをかえ、スライダーを使ってフィルター効果 (こうか) をかえます。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+矢印 (やじるし) キーを使ってコスチュームのサイズをかえ、スライダーを使ってフィルター効果 (こうか) をかえます。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -23,7 +23,7 @@ title: 必要 (ひつよう) なもの
 
 ### ハードウェア
 
-+ A computer with a webcam
++ ウェブカメラをそなえたコンピュータ
 
 ### ソフトウェア
 
