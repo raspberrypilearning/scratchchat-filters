@@ -1,12 +1,12 @@
 ## はじめに
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+画面上の画像にフィルターとおかしなコスチュームを追加 (ついか) するプロジェクトを作ります。
 
 ### 作るもの
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+方向キーを使ってコスチュームのサイズをかえ、スライダーを使ってフィルター効果 (こうか) をかえます。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
