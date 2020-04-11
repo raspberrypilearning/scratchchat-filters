@@ -1,10 +1,10 @@
 ## コスチュームのコントロール
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+コントロールを追加することで、スプライトの大きさを変え (かえ) たり、画像を表示 (ひょうじ) するか隠す (かくす) かを決めることができます。
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+このブロックを追加して、スプライトを表示または非表示にします。
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+次に、さらにいくつかのブロックを追加して、コスチュームの大きさを変えます。
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+スプライトの位置を変えるためのコントロールを追加できますか？
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+好きなキーを使って、`x座標 (ざひょう) を～ずつ変える`{:class="block3motion"}および`y座標を～ずつ変える`{:class="block3motion"}ブロックでスプライトの位置座標を増減(ぞうげん)します
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+これはスプライトを左に動かすための2つのブロックです。
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+ここに必要なすべてのコードがありますが、自分のスプライト用に使うキーは好きなものを選んでください。
 
 ```blocks3
 when [j v] key pressed
