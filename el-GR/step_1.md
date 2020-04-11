@@ -6,7 +6,9 @@
 
 --- no-print ---
 
-Χρησιμοποίησε τα βελάκια για να αλλάξεις το μέγεθος της ενδυμασίας σου και τις μπάρες κύλισης για να αλλάξεις την εμφάνιση του φίλτρου. <iframe src="https://scratch.mit.edu/projects/384618711/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Χρησιμοποίησε τα βελάκια για να αλλάξεις το μέγεθος της ενδυμασίας σου και τις μπάρες κύλισης για να αλλάξεις την εμφάνιση του φίλτρου. 
+
+<iframe src="https://scratch.mit.edu/projects/384618711/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

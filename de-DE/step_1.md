@@ -6,7 +6,9 @@ Du wirst ein Projekt erstellen, um einem Bild von dir auf dem Bildschirm Filter 
 
 --- no-print ---
 
-Benutze die Pfeiltasten, um die Größe deines Kostüms zu ändern und die Schieberegler, um den Filtereffekt zu ändern. <iframe src="https://scratch.mit.edu/projects/384619576/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Benutze die Pfeiltasten, um die Größe deines Kostüms zu ändern und die Schieberegler, um den Filtereffekt zu ändern. 
+
+<iframe src="https://scratch.mit.edu/projects/384619576/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

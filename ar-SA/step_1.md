@@ -6,7 +6,9 @@
 
 --- no-print ---
 
-استخدم مفاتيح الأسهم لتغيير حجم الزي الخاص بك ، والأشرطة المنزلقة لتغيير تأثير المرشح. <iframe src="https://scratch.mit.edu/projects/384222996/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+استخدم مفاتيح الأسهم لتغيير حجم الزي الخاص بك ، والأشرطة المنزلقة لتغيير تأثير المرشح. 
+
+<iframe src="https://scratch.mit.edu/projects/384222996/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

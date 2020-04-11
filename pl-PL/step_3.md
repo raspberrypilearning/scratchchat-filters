@@ -21,7 +21,7 @@ Spróbuj nacisnąć klawisz strzałki w prawo na klawiaturze, aby zobaczyć, jak
 
 --- task ---
 
-Możesz także wrócić do poprzedniego kostiumu za pomocą klawisza strzałki w lewo. Aby to zrobić, trzeba użyć `kostium liczba`{class="block3looks"} i odjąć `1` od niego.
+Możesz także wrócić do poprzedniego kostiumu za pomocą klawisza strzałki w lewo. Aby to zrobić, trzeba użyć `kostium liczba`{:class="block3looks"} i odjąć `1` od niego.
 
 ```blocks3
 when [left arrow v] key pressed

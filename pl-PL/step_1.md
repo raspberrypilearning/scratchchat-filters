@@ -6,7 +6,9 @@ Będziesz tworzyć projekt dodający filtry i zabawne kostiumy do twojego obrazu
 
 --- no-print ---
 
-Użyj klawiszy strzałek, aby zmienić rozmiar kostiumu, a suwaków, aby zmienić efekt filtra. <iframe src="https://scratch.mit.edu/projects/384618115/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Użyj klawiszy strzałek, aby zmienić rozmiar kostiumu, a suwaków, aby zmienić efekt filtra. 
+
+<iframe src="https://scratch.mit.edu/projects/384618115/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

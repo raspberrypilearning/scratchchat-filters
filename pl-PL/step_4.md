@@ -37,7 +37,7 @@ Sprawdź, czy jesteś w stanie kontrolować pozycję duszka.
 --- hints ---
  --- hint ---
 
-Wybierz, które klawisze mają zmieniać położenie duszka. Aby zmieniać jego pozycję zwiększaj lub zmniejszaj wartości współrzędnych x i y za pomocą poleceń `zmień x o`{class="block3motion"} i `zmień y o`{class="block3motion"}
+Wybierz, które klawisze mają zmieniać położenie duszka. Aby zmieniać jego pozycję zwiększaj lub zmniejszaj wartości współrzędnych x i y za pomocą poleceń `zmień x o`{:class="block3motion"} i `zmień y o`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
