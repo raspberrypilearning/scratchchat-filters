@@ -12,7 +12,7 @@
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Завершённый проект](images/final.png)
 
 --- /print-only ---
 
