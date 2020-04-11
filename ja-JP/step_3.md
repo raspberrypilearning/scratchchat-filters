@@ -2,7 +2,7 @@
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. このコードブロックをスプライトに追加します。
+メガネの配置 (はいち) がおわったので、かんたんなキー操作 (そうさ) でメガネの見た目をかえることができます。 このコードブロックをスプライトに追加します。
 
 ```blocks3
 [右向き矢印v] キーが押されたとき
@@ -32,25 +32,25 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+スプライトにさらにコスチュームを追加するには、**コスチューム**タブをクリックし、画面の左下にある**コスチュームを選ぶ**ボタンをクリックします。
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![メニューを開いた状態 (じょうたい) で[コスチュームを選ぶ] ボタンを表す画像](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+**コスチューム** タブでは、キーボードのCtrlキーを押しながら文字Aのキーを押すことで、コスチュームのすべての部分を選択できます。 コスチュームを動かし、サイズをかえて正しい位置 (いち) におくことができます。
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![エイリアンのカチューシャをつけている男の人の画像](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+これで、矢印キーを使用して、すべてのちがうコスチュームを一回りできます。
+
+![さまざまなコスチュームをつけた男の人のアニメーションGIF](images/costumes.gif)
 
 --- /task ---
 
