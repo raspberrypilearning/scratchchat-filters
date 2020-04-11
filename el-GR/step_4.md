@@ -40,7 +40,7 @@ change size by (-10)
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Εδώ είναι δύο μπλοκ που μετακινούν το αντικείμενο προς τα αριστερά.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Εδώ είναι όλος ο κώδικας που χρειάζεσαι, αλλά επέλεξε όποια πλήκτρα θέλεις για το αντικείμενό σου.
 
 ```blocks3
 when [j v] key pressed
