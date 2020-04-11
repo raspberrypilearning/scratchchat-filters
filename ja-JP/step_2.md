@@ -4,7 +4,7 @@
 
 新しい Scratch プロジェクトを開きます。
 
-**オンライン: ** [rpf.io/scratch-new](https://rpf.io/scratch-new)で新しいオンライン Scratch プロジェクトを開きます。
+**オンライン: ** [rpf.io/scratch-new](https://rpf.io/scratch-new)から新しいオンライン Scratch プロジェクトを開きます。
 
 **オフライン: **オフラインエディターで新しいプロジェクトを開きます。
 
