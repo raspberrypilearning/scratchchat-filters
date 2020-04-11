@@ -1,10 +1,10 @@
-## More costume controls
+## Подальше управління образами
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Тепер ти можеш додати елементи керування для зміни розміру спрайта, а також для показування чи приховування зображення.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Додай ці блоки, щоб змусити спрайт відображатися або сховатися.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Тепер додай ще трохи блоків для зміни розміру образа.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,7 +32,7 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Подумай, чи можеш ти додати ще деякі елементи управління для зміни положення спрайта.
 
 --- hints --- --- hint ---
 
