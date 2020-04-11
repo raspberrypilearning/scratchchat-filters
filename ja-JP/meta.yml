@@ -16,7 +16,7 @@ steps:
   - 
     title: コスチュームのコントロール
   - 
-    title: 色フィルターを追加する
+    title: 色フィルターを追加 (ついか) する
   - 
     title: "チャレンジ: ランダムにしてみよう"
     challenge: true
