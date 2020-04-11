@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## チャレンジ: ランダムにしてみよう
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+フィルターにランダムボタンを追加できますか？ スプライトがクリックされたとき、`色フィルター`{:class="block3variables"}と`透明度フィルター`{:class="block3variables"}の値 (あたい) がランダムに変更され、ランダムなコスチュームが選択されるようにするボタンです。
