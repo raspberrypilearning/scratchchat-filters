@@ -56,9 +56,9 @@
 
 --- task ---
 
-Якщо тебе запитає веб-браузер, тоді **Дозволь** отримати доступ до своєї вебкамери.
+Якщо тебе запитає веббраузер, тоді **Дозволь** отримати доступ до своєї вебкамери.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![зображення, що показує запит браузера для дозволу доступу до камери](images/allow-camera.png)
 
 --- /task ---
 
@@ -66,7 +66,7 @@
 
 Тепер ти можеш побачити себе на сцені, і зможеш розташувати окуляри на своєму обличчі.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![зображення, що показує людину в окулярах, накладених на обличчя](images/man-with-glasses.png)
 
 --- /task ---
 
