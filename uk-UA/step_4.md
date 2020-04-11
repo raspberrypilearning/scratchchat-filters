@@ -40,7 +40,7 @@ change size by (-10)
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Ось два блоки, що переміщують спрайт вліво.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Ось увесь потрібний тобі код, але для свого спрайта ти можеш використовувати інші клавіші.
 
 ```blocks3
 when [j v] key pressed
