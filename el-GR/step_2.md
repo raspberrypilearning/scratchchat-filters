@@ -1,72 +1,72 @@
-## Set up the stage
+## Ρύθμισε τη σκηνή
 
 --- task ---
 
-Open a new Scratch project.
+Άνοιξε ένα νέο έργο Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Σε σύνδεση:** άνοιξε ένα νέο έργο Scratch σε σύνδεση στο [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Εκτός σύνδεσης: ** άνοιξε ένα νέο έργο στον επεξεργαστή εκτός σύνδεσης.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Αν χρειαστεί να κατεβάσεις και να εγκαταστήσεις τον επεξεργαστή Scratch εκτός σύνδεσης, μπορείς να τον βρείς στο [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Για να ξεκινήσεις το νέο έργο σου, χρειάζεσαι ένα αντικείμενο. Θα χρησιμοποιήσεις το αντικείμενο για να διακοσμήσεις την εικόνα του εαυτού σου. Κάνε κλικ στο εικονίδιο **Απορρίμματα** για να διαγράψεις το τρέχον αντικείμενο/στοιχείο της γάτας.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![εικόνα που δείχνει το εικονίδιο απορριμμάτων στο αντικείμενο της γάτας](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Δημιούργησε ένα νέο αντικείμενο κάνοντας κλικ στο εικονίδιο **Επέλεξε ένα αντικείμενο**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![εικόνα που δείχνει το επιλεγμένο εικονίδιο του αντικειμένου σε ανάπτυξη](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Επέλεξε το κουμπί **Μόδα** και επέλεξε ένα από τα αντικείμενα. Εδώ θα ξεκινήσουμε με τα γυαλιά.
 
-![image showing the add extension button](images/add-extension.png)
+![εικόνα που δείχνει αντικείμενα μόδας](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![εικόνα που δείχνει το αντικείμενο γυαλιά](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Κάνε κλικ στο κουμπί **Προσθήκη επέκτασης** στην κάτω αριστερή γωνία της οθόνης.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![εικόνα που δείχνει το κουμπί προσθήκης επέκτασης](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Επέλεξε το πρόσθετο **Βιντεοσκόπηση** από το παρεχόμενο μενού.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![εικόνα που δείχνει την επιλογή της βιβλιοθήκης επέκτασης βίντεο](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Εάν σου ζητηθεί από το πρόγραμμα περιήγησης ιστού, τότε να το **Επιτρέψεις** να έχει πρόσβαση στην κάμερα web.
+
+![εικόνα που δείχνει την ερώτηση του προγράμματος περιήγησης ώστε να επιτρέπεται η πρόσβαση στην κάμερα](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Τώρα θα πρέπει να μπορείς να δεις τον εαυτό σου στη σκηνή και να τοποθετήσεις τα γυαλιά πάνω στο πρόσωπό σου.
+
+![εικόνα που δείχνει έναν άνθρωπο με γυαλιά στο πρόσωπό του](images/man-with-glasses.png)
 
 --- /task ---
 
