@@ -1,4 +1,4 @@
-## More costume controls
+## コスチュームのコントロール
 
 You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
 
