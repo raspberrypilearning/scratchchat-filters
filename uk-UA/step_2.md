@@ -1,62 +1,62 @@
-## Set up the stage
+## Налаштуй сцену
 
 --- task ---
 
-Open a new Scratch project.
+Відкрий новий проєкт Скретч.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Онлайн:** відкрий новий онлайн проєкт Скретч на [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Офлайн:** відкрий новий проєкт в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, то ти можеш його знайти на [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Для початку роботи над новим проєктом тобі потрібен спрайт. Ти будеш використовувати спрайт для оформлення власного зображення. Клацни на іконку **Кошик**, щоб видалити наявний спрайт кота.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![зображення, що показує значок кошика на спрайті Кота](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Створи новий спрайт, натиснувши на значок **Обрати спрайт**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![зображення із відкритим значком вибору спрайта](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Натисни кнопку **Мода** і вибери один із спрайтів. В даному випадку ми розпочнемо із окулярів.
 
-![image showing the add extension button](images/add-extension.png)
+![зображення, що показує спрайти моди](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![зображення, що показує спрайт окулярів](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Натисни кнопку **Додати розширення** у лівому нижньому куті екрана.
+
+![зображення, що показує кнопку додавання розширення](images/add-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Вибери розширення **Відеоспостереження** у меню.
+
+![зображення, що показує вибір розширення відеоспостереження](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Якщо тебе запитає веб-браузер, тоді **Дозволь** отримати доступ до своєї вебкамери.
 
 ![image showing browser prompt to allow access to the camera](images/allow-camera.png)
 
@@ -64,7 +64,7 @@ If you are prompted by your web browser, then **Allow** it access to your webcam
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Тепер ти можеш побачити себе на сцені, і зможеш розташувати окуляри на своєму обличчі.
 
 ![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
 
