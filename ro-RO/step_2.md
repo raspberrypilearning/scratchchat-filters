@@ -1,72 +1,72 @@
-## Set up the stage
+## Configurează scena
 
 --- task ---
 
-Open a new Scratch project.
+Deschide un nou proiect Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** deschide un proiect Scratch nou în [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Offline:** deschide un proiect nou în editorul offline.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Dacă ai nevoie să descarci și să instalezi editorul offline Scratch, îl poți găsi la [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Pentru a începe noul tău proiect, ai nevoie de un personaj. Vei folosi personajul pentru a decora imaginea ta. Dă click pe pictograma **Coș de gunoi** pentru a șterge personajul curent pisică.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![imagine care arată pictograma coșului de gunoi pe Sprite pisică](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Creează un personaj nou dând click pe pictograma **Alege un personaj**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![imaginea care afișează pictograma alege un personaj selectată](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Selectează butonul **Modă** și alege unul dintre personaje. Aici vom începe cu ochelarii.
 
-![image showing the add extension button](images/add-extension.png)
+![imagine care prezintă personaje de modă](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![imagine care arată personajul ochelarilor](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Dă click pe butonul **Adaugă o extensie** din colțul din stânga jos al ecranului.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![imagine care arată butonul adaugă o extensie](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Alege suplimentul **Detectare video** din meniul oferit.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![imagine care arată selecția bibliotecii de extensii video](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Dacă ți se solicită de către navigatorul web, atunci **Permite** accesul la camera ta web.
+
+![imaginea care afișează promptul browserului pentru a permite accesul la cameră](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Acuma ar trebui să te poți vedea pe scenă și să poți poziționa ochelarii deasupra feței.
+
+![imagine care arată un bărbat cu ochelari suprapuși peste față](images/man-with-glasses.png)
 
 --- /task ---
 
