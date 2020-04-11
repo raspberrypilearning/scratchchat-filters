@@ -8,17 +8,17 @@
 
 ![ステージアイコンを表す画像](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+**背景**タブの**ビットマップに変換** (へんかん) を選びます 。 次に、**塗りつぶし** (ぬりつぶし) ツールを使って背景を一色で塗りつぶします。
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![ステージの背景が塗りつぶされた画像](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+次に、`色フィルター` {:class="block3variables"}および`透明度 (とうめいど) フィルター` {:class="block3variables"}という2つの変数 (へんすう) を作ります。 ステージでこれらの変数を右クリックして、両方を**スライダー**に設定します。
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![スライダーに変更された変数を表す画像](images/sliders.png)
 
 --- /task ---
 
