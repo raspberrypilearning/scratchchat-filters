@@ -16,7 +16,7 @@ Scratch オフラインエディターは[rpf.io/scratchoff](https://rpf.io/scra
 
 新しいプロジェクトを始めるには、スプライトが必要です。 スプライトを使って、自分の画像 (がぞう) をかざります。 **ゴミ箱**のアイコンをクリックして、ネコのスプライトを削除 (さくじょ) します。
 
-![ネコのスプライトのゴミ箱アイコンをしめす画像](images/delete-sprite.png)
+![ネコのスプライトのゴミ箱アイコンを表す画像](images/delete-sprite.png)
 
 --- /task ---
 
@@ -24,7 +24,7 @@ Scratch オフラインエディターは[rpf.io/scratchoff](https://rpf.io/scra
 
 **スプライトを選ぶ** (えらぶ) アイコンをクリックして、新しいスプライトを作ります。
 
-![展開 (てんかい) された「スプライトを選ぶ」アイコンをしめす画像](images/new-sprite.png)
+![展開 (てんかい) された「スプライトを選ぶ」アイコンを表す画像](images/new-sprite.png)
 
 --- /task ---
 
@@ -42,7 +42,7 @@ Scratch オフラインエディターは[rpf.io/scratchoff](https://rpf.io/scra
 
 画面の左下すみにある **拡張機能を追加** (かくちょうきのうをついか) ボタンをクリックします。
 
-![拡張機能の追加ボタンをしめす画像](images/add-extension.png)
+![拡張機能の追加ボタンを表す画像](images/add-extension.png)
 
 --- /task ---
 
@@ -50,23 +50,23 @@ Scratch オフラインエディターは[rpf.io/scratchoff](https://rpf.io/scra
 
 メニューから **ビデオモーションセンサー** アドオンを選びます。
 
-![image showing the selection of the video extension library](images/video-extension.png)
+![ビデオ拡張ライブラリの選択 (せんたく) を表す画像](images/video-extension.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+ウェブブラウザでダイアログが表示された場合は、ウェブカメラへのアクセスを**許可** (きょか) します。
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![カメラへのアクセスを許可するダイアログを表す画像](images/allow-camera.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+これで、ステージ上で自分自身が見えるようになり、メガネを顔の上におくことができます。
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![顔にメガネをのせた男の人を表す画像](images/man-with-glasses.png)
 
 --- /task ---
 
