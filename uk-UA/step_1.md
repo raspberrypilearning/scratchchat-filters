@@ -12,7 +12,7 @@
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Завершений проєкт](images/final.png)
 
 --- /print-only ---
 
@@ -44,9 +44,9 @@ title: Чого ти навчишся
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Додаткова інформація для викладачів
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_ blank"}.
 
 --- /collapse ---
