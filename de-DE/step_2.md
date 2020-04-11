@@ -66,7 +66,7 @@ Wenn du von deinem Web-Browser aufgefordert wirst, dann **erlaube** ihm Zugriff 
 
 Du solltest dich jetzt auf der Bühne sehen und die Brille über deinem Gesicht positionieren können.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![Bild das einen Mann mit einer Brille, die über sein Gesicht gelegt ist, zeigt](images/man-with-glasses.png)
 
 --- /task ---
 
