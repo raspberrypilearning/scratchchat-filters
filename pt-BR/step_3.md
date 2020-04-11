@@ -1,19 +1,19 @@
-## How to switch costumes
+## Como trocar de fantasias
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Agora que você tem seus óculos posicionados, você pode usar algumas teclas para mudar seu estilo. Adicione esses blocos de código ao seu ator.
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+quando a tecla [seta para direita v] for pressionada
+próxima fantasia
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+Tente pressionar a tecla seta para direita do teclado para ver os óculos mudarem de estilo.
 
 ![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
 
