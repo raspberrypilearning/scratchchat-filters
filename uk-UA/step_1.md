@@ -1,12 +1,12 @@
-## Introduction
+## Вступ
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Ти зробиш проєкт, щоб додавати фільтри та смішні костюми до свого зображення на екрані.
 
-### What you will make
+### Що ти зробиш
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Використовуй клавіші зі стрілками для зміни розміру свого костюма, а повзунки — для зміни ефекту фільтра. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -18,27 +18,27 @@ Use the arrow keys to change the size of your costume, and the sliders to change
 
 --- collapse ---
 ---
-title: What you will need
+title: Що тобі знадобиться
 ---
 
-### Hardware
+### Обладнання
 
-+ A computer with a webcam
++ Комп'ютер з веб-камерою
 
-### Software
+### Програмне забезпечення
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Скретч 3.0 ([онлайн](http://rpf.io/scratchon) або [офлайн](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Чого ти навчишся
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Як записувати відео в Скретч
+- Як змінювати кольорові ефекти
+- Як змінювати образи за допомогою клавіш
 
 --- /collapse ---
 
