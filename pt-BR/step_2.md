@@ -30,7 +30,7 @@ Crie um novo ator clicando no ícone **Selecione um Ator**.
 
 --- task ---
 
-Selecione o botão **Moda** e escolha um dos atores. Here we'll start with the glasses.
+Selecione o botão **Moda** e escolha um dos atores. Aqui vamos começar com os óculos (Glasses).
 
 ![imagem mostrando atores moda](images/fashion.png)
 
