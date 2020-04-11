@@ -1,12 +1,12 @@
 ## Farbfilter hinzufügen
 
-Now give your image a colour filter.
+Gib deinem Bild nun einen Farbfilter.
 
 --- task ---
 
 Klicke auf das **Bühnenbild**-Symbol.
 
-![image showing stage icon](images/stage.png)
+![Bild das das Bühnensymbol zeigt](images/stage.png)
 
 Benutze die **Bühnenbilder**-Registerkarte um **in eine Vektorgrafik umzuwandeln**. Nutze dann das **Fülleimer** Werkzeug, um den Bühnenhintergrund mit einer einzigen Farbe zu füllen.
 
@@ -16,7 +16,7 @@ Benutze die **Bühnenbilder**-Registerkarte um **in eine Vektorgrafik umzuwandel
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. Du kannst auf der Bühne, mit der rechten Maustaste auf diese Variablen klicken um sie beide **Schieberegler** sein zu lassen.
+Erstelle als nächstes zwei Variablen namens `Filterfarbe`{:class="block3variables"} und `Filterstärke`{:class="block3variables"}. Du kannst auf der Bühne, mit der rechten Maustaste auf diese Variablen klicken um sie beide **Schieberegler** sein zu lassen.
 
 ![Bild das zeigt wie die Variablen zu Schiebereglern geändert werden](images/sliders.png)
 
@@ -24,14 +24,14 @@ Next, create two variables called `filter colour`{:class="block3variables"} and 
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Nutze diese Variablen um das Aussehen des Filters zu verändern, um dein Projekt fertigzustellen.
 
 ```blocks3
 when flag clicked
 turn video (on v)
 forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+set video transparency to (Filterstärke)
+set [color v] effect to (Filterfarbe)
 ```
 
 --- /task ---
