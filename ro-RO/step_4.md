@@ -1,10 +1,10 @@
-## More costume controls
+## Mai multe controale pentru costumuri
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Acum poți adăuga controale pentru a schimba dimensiunea personajului și de asemenea decide dacă imaginea este afișată sau ascunsă.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Adaugă aceste blocuri pentru a face personajul să apară și să dispară.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Acum adaugă mai multe blocuri pentru a schimba dimensiunea costumului.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Vezi dacă poți adăuga mai multe controale pentru a schimba poziția personajului.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Folosește orice taste vrei ca să mărești sau să micșorezi poziția personajului folosind blocurile `modifică x cu`{:class="block3motion"} și `modifică y cu`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Aici sunt două blocuri care mută personajul la stânga.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Iată tot codul de care ai nevoie, dar alege orice taste vrei pentru personaj.
 
 ```blocks3
 when [j v] key pressed
