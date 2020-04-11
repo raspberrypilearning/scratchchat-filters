@@ -1,3 +1,3 @@
-## What next?
+## 次は何をしましょうか？
 
-Now that you've completed this project, have a look at some of our other [funny projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
+このプロジェクトが完了したので、他の[面白いプロジェクト](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour)をいくつか見てみましょう。
