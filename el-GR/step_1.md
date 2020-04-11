@@ -1,52 +1,52 @@
-## Introduction
+## Εισαγωγή
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Πρόκειται να κάνεις ένα έργο για να προσθέσεις φίλτρα και ανόητη ενδυμασία στην εικόνα σου στην οθόνη.
 
-### What you will make
+### Τι θα φτιάξεις
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Χρησιμοποίησε τα βελάκια για να αλλάξεις το μέγεθος της ενδυμασίας σου και τις μπάρες κύλισης για να αλλάξεις την εμφάνιση του φίλτρου. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Ολοκληρωμένο έργο](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+title: Τι θα χρειαστείς
 ---
 
-### Hardware
+### Υλικό
 
-+ A computer with a webcam
++ Ένα υπολογιστή με μια κάμερα
 
-### Software
+### Λογισμικό
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (είτε [σε σύνδεση](http://rpf.io/scratchon) είτε [εκτός σύνδεσης](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: Τι θα μάθεις
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Πώς να τραβάς βίντεο στο Scratch
+- Πώς να αλλάξεις εφέ χρώματος
+- Πώς να αλλάξεις την ενδυμασία με το πάτημα των πλήκτρων
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print)"{:target="_blank"}.
 
 --- /collapse ---
