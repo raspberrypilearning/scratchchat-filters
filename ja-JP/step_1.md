@@ -6,7 +6,7 @@
 
 --- no-print ---
 
-矢印 (やじるし) キーを使ってコスチュームのサイズをかえ、スライダーを使ってフィルター効果 (こうか) をかえます。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+矢印 (やじるし) キーを使ってコスチュームのサイズを変更 (へんこう) し 、スライダーを使ってフィルター効果 (こうか) を変更します。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
@@ -36,9 +36,9 @@ title: 必要 (ひつよう) なもの
 title: 学ぶこと
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Scratch でのビデオキャプチャ
+- 色効果を変える (かえる) 方法
+- キーを押して (おして) コスチュームを変える方法
 
 --- /collapse ---
 
