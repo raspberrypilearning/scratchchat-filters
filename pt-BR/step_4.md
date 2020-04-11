@@ -36,33 +36,33 @@ Veja se você pode adicionar mais controles para alterar a posição do ator.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Use as teclas que desejar para aumentar ou diminuir a posição do ator usando os blocos `adicione () a x`{:class="block3motion"} e `adicione () a y`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+Aqui estão dois blocos que movem o ator para a esquerda.
 
 ```blocks3
-change x by (-10)
-when [j v] key pressed
+mude x para (-10)
+quando a tecla [j v] for pressionada
 ```
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Aqui está todo o código que você precisa, mas escolha quaisquer teclas que você queira para seu ator.
 
 ```blocks3
-when [j v] key pressed
-change x by (-10)
+quando a tecla [j v] for pressionada
+mude x para (-10)
 
-when [l v] key pressed
-change x by (10)
+quando a tecla [l v] for pressionada
+mude x para (10)
 
-when [o v] key pressed
-change y by (10)
+quando a tecla [o v] for pressionada
+mude y para (10)
 
-when [k v] key pressed
-change y by (-10)
+quando a tecla [k v] for pressionada
+mude y para (-10)
 ```
 
 --- /hint --- --- /hints ---
