@@ -1,8 +1,8 @@
-## How to switch costumes
+## Як перемикати образи
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Тепер, коли твої окуляри розміщені, ти можеш використовувати деякі прості натискання клавіш, щоб змінювати їх стиль. Додай ці блоки коду до свого спрайта.
 
 ```blocks3
 when [right arrow v] key pressed
@@ -13,15 +13,15 @@ next costume
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+Спробуй натиснути стрілку праворуч на клавіатурі, щоб побачити, як окуляри змінюють стиль.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![зображення людини в окулярах у формі серця](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+Ти також можеш повернутися до попереднього образа за допомогою клавіші стрілки ліворуч. Для цього тобі потрібно скористатися блоком `образ номер`{:class="block3looks"} і відняти від нього `1`.
 
 ```blocks3
 when [left arrow v] key pressed
@@ -32,25 +32,25 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+Щоб додати ще кілька образів у спрайт, натисни на вкладку **Образи**, а потім на кнопку **Обрати образ** у нижньому лівому куті екрана.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![зображення, що показує кнопку "Обрати образ" із відкритим меню](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+На вкладці **Образи** ти можеш виділити всі частини костюма, утримуючи клавішу Ctrl на клавіатурі, а потім натиснувши букву A (латинську). Потім ти можеш переміщувати та змінювати розмір кожного образа так, щоб він знаходився в потрібному місці.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![зображення людини з антеною прибульця на голові](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+Тепер ти можеш використовувати клавіші зі стрілками, щоб перебирати різні образи.
+
+![анімований gif людини з різними образами](images/costumes.gif)
 
 --- /task ---
 
