@@ -1,44 +1,44 @@
-## Add a colour filter
+## Adicionar um filtro de cores
 
-Now give your image a colour filter.
+Agora dê um filtro de cores à sua imagem.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Clique no ícone **Cenário**.
 
-![image showing stage icon](images/stage.png)
+![imagem mostrando o ícone palco](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Use a aba **Cenários** para **Converter para Bitmap**. Em seguida, use a ferramenta **Preencher** para preencher o cenário com uma única cor.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![imagem mostrando o cenário preenchido para o palco](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Em seguida, crie duas variáveis chamadas `cor do filtro`{:class="block3variables"} e `quantidade de filtro`{:class="block3variables"}. No palco, você pode clicar com o botão direito do mouse nessas variáveis e configurá-las para serem **controles deslizantes**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![imagem mostrando as variáveis sendo alteradas para controles deslizantes](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Para terminar seu projeto, use estas variáveis para alterar a aparência do filtro.
 
 ```blocks3
-when flag clicked
-turn video (on v)
-forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+quando bendeira verde for clicado
+mude vídeo (ligado v)
+sempre
+ajuste transparência do vídeo para (quantidade de filtro)
+defina o efeito [cor v] como (cor do filtro)
 ```
 
 --- /task ---
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Agora você pode mover os controles deslizantes para ver o efeito em sua imagem.
 
 --- /task ---
 
