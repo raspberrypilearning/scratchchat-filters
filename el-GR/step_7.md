@@ -1,3 +1,3 @@
-## What next?
+## Και τώρα;
 
-Now that you've completed this project, have a look at some of our other [funny projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
+Τώρα που ολοκλήρωσες αυτό το έργο, ρίξε μια ματιά σε μερικά από τα άλλα [αστεία μας έργα](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
