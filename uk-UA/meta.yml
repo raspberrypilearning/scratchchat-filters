@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: Фільтри для Скретч Чату
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: Додай класні фільтри та картинки до власних зображень
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: Вступ
   - 
-    title: Set up the stage
+    title: Налаштуй сцену
   - 
-    title: How to switch costumes
+    title: Як перемикати образи
   - 
-    title: More costume controls
+    title: Подальше управління образами
   - 
-    title: Add a colour filter
+    title: Додай кольоровий фільтр
   - 
-    title: "Challenge: Add some randomness"
+    title: "Завдання: додай трохи випадковості"
     challenge: true
   - 
-    title: What next?
+    title: Що далі?
