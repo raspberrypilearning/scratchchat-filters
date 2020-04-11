@@ -1,38 +1,38 @@
-## More costume controls
+## Mais controles de fantasia
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Agora você pode adicionar controles para alterar o tamanho do ator e também decidir se a imagem é mostrada ou oculta.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Adicione estes blocos para fazer o ator aparecer e desaparecer.
 
 ```blocks3
-when [s v] key pressed
-show
+quando a tecla [s v] for pressionada
+mostre
 
-when [h v] key pressed
-hide
+quando a tecla [h v] for pressionada
+esconda
 ```
 
 --- /task ---
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Agora adicione mais alguns blocos para mudar o tamanho da fantasia.
 
 ```blocks3
-when [up arrow v] key pressed
-change size by (10)
+quando a tecla [seta para cima v] for pressionada
+mude (10) no tamanho
 
-when [down arrow v] key pressed
-change size by (-10)
+quando a tecla [seta para baixo v] for pressionada
+mude (-10) no tamanho
 ```
 
 --- /task ---
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Veja se você pode adicionar mais controles para alterar a posição do ator.
 
 --- hints --- --- hint ---
 
