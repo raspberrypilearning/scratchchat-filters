@@ -36,7 +36,7 @@ change size by (-10)
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Викристовуй клавіші, які забажаєш, для зміни позиції спрайта за допомогою блоків `змінити x на`{:class="block3motion"} та `змінити y на`{:class="block3motion"}.
 
 --- /hint --- --- hint ---
 
