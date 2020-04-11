@@ -2,7 +2,7 @@
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Füge deiner Figur diese Code-Blöcke hinzu.
+Nachdem du jetzt deine Brille positioniert hast, kannst du ihren Stil, mit einigen einfachen Tastendrücken, ändern. Füge deiner Figur diese Code-Blöcke hinzu.
 
 ```blocks3
 Wenn Taste [Pfeil nach rechts v] gedrückt wird
@@ -24,8 +24,8 @@ Versuche die rechte Pfeiltaste auf deiner Tastatur zu drücken, um zu sehen, wie
 Vielleicht willst du auch zu einem vorherigen Kostüm zurück wechseln, indem du die linke Pfeiltaste benutzt. Dazu musst du die `Kostüm Nummer`{:class="block3looks"} verwenden und `1` davon abziehen.
 
 ```blocks3
-when [left arrow v] key pressed
-switch costume to ((costume [number v]) - (1))
+Wenn Taste [Pfeil nach links v] gedrückt wird
+wechsle zu Kostüm ((Kostüm [number v]) - (1))
 ```
 
 --- /task ---
