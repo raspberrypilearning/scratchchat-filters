@@ -24,7 +24,7 @@
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+これらの変数を使用してフィルターの見た目を変え、プロジェクトを完成させます。
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+これで、スライダーを動かして画像へのエフェクトを見ることができます。
 
 --- /task ---
 
