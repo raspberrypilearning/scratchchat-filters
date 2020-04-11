@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## Desafio: Adicione alguma aleatoriedade
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+Você pode adicionar um botão aleatório aos seus filtros? Talvez quando um ator é clicado na `cor do filtro`{:class="block3variables"} e a `quantidade de filtro`{:class="block3variables"} sejam alterados aleatoriamente e seja escolhida uma fantasia aleatória.
