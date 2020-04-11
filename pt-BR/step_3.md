@@ -15,42 +15,42 @@ próxima fantasia
 
 Tente pressionar a tecla seta para direita do teclado para ver os óculos mudarem de estilo.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![imagem de um homem de óculos em forma de coração](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+Você também pode querer voltar para uma fantasia anterior usando a tecla de seta esquerda. Para fazer isso, você precisa usar o `número da fantasia`{:class="block3looks"} e subtrair `1` dele.
 
 ```blocks3
-when [left arrow v] key pressed
-switch costume to ((costume [number v]) - (1))
+quando [seta para esquerda v] for clicado
+mude para a fantasia((fantasia [número v]) (- 1))
 ```
 
 --- /task ---
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+Para adicionar mais algumas fantasias ao seu ator, clique na aba **Fantasias** e, em seguida no botão **Escolher Fantasia** no canto inferior esquerdo da tela.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![imagem mostrando o botão Escolha Fantasia com o menu aberto](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+Na aba **Fantasias**, você pode selecionar todas as partes de uma fantasia mantendo pressionada a tecla Ctrl do teclado e pressionando a tecla da letra A. Você pode então mover e redimensionar cada fantasia para que eles estejam no lugar correto.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![imagem de homem com antena alienígena na cabeça](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+Agora você pode usar as setas do teclado para percorrer todas as suas diferentes fantasias.
+
+![gif animado de um homem com diferentes fantasias](images/costumes.gif)
 
 --- /task ---
 
