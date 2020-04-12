@@ -1,72 +1,72 @@
-## Set up the stage
+## 设置舞台
 
 --- task ---
 
-Open a new Scratch project.
+创建一个新的 Scratch 项目
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**在线版本：** 在 [rpf.io/scratch-new](https://rpf.io/scratch-new) 上打开一个新的在线Scratch 项目。
 
-**Offline:** open a new project in the offline editor.
+**离线版本： ** 在离线编辑器中打开一个新项目。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+如果您需要下载并安装 Scratch 离线编辑器，你可以在[rpf.io/scratchoff ](https://rpf.io/scratchoff) 中获取。
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+要开始这个新项目，您需要一个精灵。 您将使用精灵来装饰自己的视频图像。 单击 **垃圾桶** 图标删除当前的猫咪精灵。
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![在猫咪精灵上显示的垃圾桶图标](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+通过单击 **选择一个角色** 图标创建一个新的精灵。
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![该图显示了选择精灵展开的图标](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+选择 **时尚** 按钮，然后选择其中一个精灵。 我们会从眼镜开始。
 
-![image showing the add extension button](images/add-extension.png)
+![该图显示了时尚分类下的精灵](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![该图显示了眼镜精灵](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+单击屏幕左下角的 **添加扩展** 按钮。
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![该图显示了添加扩展按钮](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+从提供的菜单中选择 **视频侦测** 扩展库。
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![该图显示了视频侦测库的选择](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+如果您的浏览器提示您，则 **允许** 它访问您的摄像头。
+
+![该图显示了浏览器提示以允许访问相机](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+现在，您应该可以在舞台上看到自己了，并且可以将眼镜放在脸上。
+
+![该图显示了一个男人有个眼镜叠加在他的脸上](images/man-with-glasses.png)
 
 --- /task ---
 
