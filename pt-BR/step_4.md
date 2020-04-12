@@ -7,11 +7,11 @@ Agora você pode adicionar controles para alterar o tamanho do ator e também de
 Adicione estes blocos para fazer o ator aparecer e desaparecer.
 
 ```blocks3
-quando a tecla [s v] for pressionada
-mostre
+when [s v] key pressed
+show
 
-quando a tecla [h v] for pressionada
-esconda
+when [h v] key pressed
+hide
 ```
 
 --- /task ---
@@ -21,11 +21,11 @@ esconda
 Agora adicione mais alguns blocos para mudar o tamanho da fantasia.
 
 ```blocks3
-quando a tecla [seta para cima v] for pressionada
-mude (10) no tamanho
+when [up arrow v] key pressed
+change size by (10)
 
-quando a tecla [seta para baixo v] for pressionada
-mude (-10) no tamanho
+when [down arrow v] key pressed
+change size by (-10)
 ```
 
 --- /task ---
@@ -43,8 +43,8 @@ Use as teclas que desejar para aumentar ou diminuir a posição do ator usando o
 Aqui estão dois blocos que movem o ator para a esquerda.
 
 ```blocks3
-mude x para (-10)
-quando a tecla [j v] for pressionada
+change x by (-10)
+when [j v] key pressed
 ```
 
 --- /hint --- --- hint ---
@@ -52,17 +52,17 @@ quando a tecla [j v] for pressionada
 Aqui está todo o código que você precisa, mas escolha quaisquer teclas que você queira para seu ator.
 
 ```blocks3
-quando a tecla [j v] for pressionada
-mude x para (-10)
+when [j v] key pressed
+change x by (-10)
 
-quando a tecla [l v] for pressionada
-mude x para (10)
+when [l v] key pressed
+change x by (10)
 
-quando a tecla [o v] for pressionada
-mude y para (10)
+when [o v] key pressed
+change y by (10)
 
-quando a tecla [k v] for pressionada
-mude y para (-10)
+when [k v] key pressed
+change y by (-10)
 ```
 
 --- /hint --- --- /hints ---
