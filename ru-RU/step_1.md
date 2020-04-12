@@ -6,7 +6,9 @@
 
 --- no-print ---
 
-Используй клавиши со стрелками, чтобы изменить размер твоего костюма, и рычажки, чтобы изменить эффект фильтра. <iframe src="https://scratch.mit.edu/projects/384708235/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Используй клавиши со стрелками, чтобы изменить размер твоего костюма, и рычажки, чтобы изменить эффект фильтра. 
+
+<iframe src="https://scratch.mit.edu/projects/384708235/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

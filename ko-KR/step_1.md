@@ -6,7 +6,9 @@
 
 --- no-print ---
 
-화살표 키를 사용하여 의상의 크기를 변경하고 슬라이더를 사용하여 필터 효과를 변경해봅니다. <iframe src="https://scratch.mit.edu/projects/384705742/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+화살표 키를 사용하여 의상의 크기를 변경하고 슬라이더를 사용하여 필터 효과를 변경해봅니다. 
+
+<iframe src="https://scratch.mit.edu/projects/384705742/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

@@ -6,7 +6,9 @@
 
 --- no-print ---
 
-Використовуй клавіші зі стрілками для зміни розміру свого костюма, а повзунки — для зміни ефекту фільтра. <iframe src="https://scratch.mit.edu/projects/384708492/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Використовуй клавіші зі стрілками для зміни розміру свого костюма, а повзунки — для зміни ефекту фільтра. 
+
+<iframe src="https://scratch.mit.edu/projects/384708492/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 

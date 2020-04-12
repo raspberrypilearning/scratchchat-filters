@@ -5,7 +5,8 @@
 이제 안경을 썼으니 간단한 키 조작으로 스타일을 바꿔보겠습니다. 아래 코드 블록을 스프라이트에 추가합니다.
 
 ```blocks3
-[오른쪽 화살표 v] 키를 누르면 다음 의상으로
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---

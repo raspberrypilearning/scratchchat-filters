@@ -6,7 +6,9 @@ Vei face un proiect pentru a adăuga filtre și costume haioase la imaginea ta p
 
 --- no-print ---
 
-Folosește tastele săgeată pentru a schimba dimensiunea costumului și cursoarele pentru a schimba efectul filtrului. <iframe src="https://scratch.mit.edu/projects/384707698/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Folosește tastele săgeată pentru a schimba dimensiunea costumului și cursoarele pentru a schimba efectul filtrului. 
+
+<iframe src="https://scratch.mit.edu/projects/384707698/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
