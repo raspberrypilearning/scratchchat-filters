@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: Scratch 视频聊天滤镜
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: 为自己的视频图像添加漂亮的滤镜和装饰
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: 介绍
   - 
-    title: Set up the stage
+    title: 设置舞台
   - 
-    title: How to switch costumes
+    title: 如何切换造型
   - 
-    title: More costume controls
+    title: 更多造型控制
   - 
-    title: Add a colour filter
+    title: 添加滤镜
   - 
-    title: "Challenge: Add some randomness"
+    title: "挑战：增加一些随机性"
     challenge: true
   - 
-    title: What next?
+    title: 接下来呢？
