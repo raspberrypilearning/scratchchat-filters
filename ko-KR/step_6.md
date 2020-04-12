@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## 도전 과제: 더 랜덤하게
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+당신의 필터에 "더 랜덤하게" 버튼을 추가할 수 있습니까? 스프라이트가 `필터 색상`{:class="block3variables"}을 클릭할 때 `필터 강도`{:class="block3variables"}가 랜덤한 값으로 선택되고 의상도 무작위로 선택되게 합니다.
