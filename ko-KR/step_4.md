@@ -1,10 +1,10 @@
-## More costume controls
+## 의상 컨트롤 추가
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+이제 컨트롤을 추가하여 스프라이트의 크기를 변경하고 이미지를 보이게 하거나 보이지 않게 할 수 있습니다.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+스프라이트가 나타나거나 사라지게 할 수 있도록 이 블럭을 추가합니다.
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+이제 의상의 크기를 바꿀수 있는 블럭들을 추가합니다.
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+스프라이트의 위치를 바꿀수 있는 컨트롤을 추가할 수 있는지 살펴 봅시다.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+스프라이트의 위치를 올리거나 낮출 때 사용하고자 하는 키를 설정하기 위해서 `x 좌표를 () 만큼 바꾸기`{:class="block3motion"}와 `y 좌표를 () 만큼 바꾸기`{:class="block3motion"} 블럭을 사용합니다.
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+이 두 블럭은 스프라이트를 왼쪽으로 옮깁니다.
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+다음의 준비된 코드에 여러분이 스프라이트를 옮길 때 사용하고 싶은 키를 설정하세요.
 
 ```blocks3
 when [j v] key pressed
