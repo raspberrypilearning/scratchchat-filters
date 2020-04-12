@@ -13,5 +13,5 @@ steps:
   - title: 更多造型控制
   - title: 添加滤镜
   - title: "挑战：增加一些随机性"
-  challenge: true
+    challenge: true
   - title: 接下来呢？

@@ -13,5 +13,5 @@ steps:
   - title: Mais controles de fantasia
   - title: Adicionar um filtro de cores
   - title: "Desafio: Adicione alguma aleatoriedade"
-  challenge: true
+    challenge: true
   - title: E agora?

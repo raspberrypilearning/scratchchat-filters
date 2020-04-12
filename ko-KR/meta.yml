@@ -13,5 +13,5 @@ steps:
   - title: 설정 컨트롤 더보기
   - title: 색상 필터 추가
   - title: "도전 과제: 더 랜덤하게"
-  challenge: true
+    challenge: true
   - title: 더 나아가기
