@@ -1,30 +1,30 @@
-## Add a colour filter
+## 添加滤镜
 
-Now give your image a colour filter.
+现在给您的图像添加滤镜。
 
 --- task ---
 
-Click on the **Backdrop** icon.
+点击 **背景** 图标。
 
-![image showing stage icon](images/stage.png)
+![该图显示了舞台图标](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+使用 **背景** 选项卡来 **转换为位图** 。 然后使用 **填充** 工具来用单色填充背景。
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![该图显示了舞台的填充背景](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+接着创建两个变量，分别叫做 `滤镜颜色`{:class="block3variables"} 和 `滤镜数值`{:class="block3variables"} 在舞台上，您可以右键单击这些变量，并将它们都设置为 **滑块** 。
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![该图显示了已更改为滑块的变量](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+要完成您的项目，请使用这些变量来更改滤镜的外观。
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+现在，您可以移动滑块以查看图像上的效果。
 
 --- /task ---
 
