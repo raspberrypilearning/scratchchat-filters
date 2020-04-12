@@ -5,8 +5,8 @@
 Agora que você tem seus óculos posicionados, você pode usar algumas teclas para mudar seu estilo. Adicione esses blocos de código ao seu ator.
 
 ```blocks3
-quando a tecla [seta para direita v] for pressionada
-próxima fantasia
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---
@@ -24,8 +24,8 @@ Tente pressionar a tecla seta para direita do teclado para ver os óculos mudare
 Você também pode querer voltar para uma fantasia anterior usando a tecla de seta esquerda. Para fazer isso, você precisa usar o `número da fantasia`{:class="block3looks"} e subtrair `1` dele.
 
 ```blocks3
-quando [seta para esquerda v] for clicado
-mude para a fantasia((fantasia [número v]) (- 1))
+when [left arrow v] key pressed
+switch costume to ((costume [number v]) - (1))
 ```
 
 --- /task ---
