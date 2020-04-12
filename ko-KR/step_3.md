@@ -1,27 +1,26 @@
-## How to switch costumes
+## 의상 바꿔 입기
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+이제 안경을 썼으니 간단한 키 조작으로 스타일을 바꿔보겠습니다. 아래 코드 블록을 스프라이트에 추가합니다.
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+[오른쪽 화살표 v] 키를 누르면 다음 의상으로
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+키보드의 오른쪽 화살표 키를 누르면 안경 스타일이 변하는 것을 볼수있습니다.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![심장 모양의 안경을 쓴 남자의 이미지](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+왼쪽 화살표 키를 누르면 이전 의상으로 돌아갑니다. 이전 의상으로 돌아가려면 `의상 번호`{:class="block3looks"}를 사용해야 하는데 `1` 을 빼는 것으로 구현합니다.
 
 ```blocks3
 when [left arrow v] key pressed
@@ -32,25 +31,25 @@ switch costume to ((costume [number v]) - (1))
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+스프라이트에 의상을 더 추가하고 싶다면 **의상** 탭을 클릭 한 다음 화면 왼쪽 아래의 **의상 선택** 버튼을 클릭하세요.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![메뉴가 열린 채 의상 선택 버튼을 보여주는 이미지](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+**의상** 탭에서 키보드의 Ctrl 키를 누른 상태에서 문자 A 키를 누르면 모든 의상을 선택할 수 있습니다. 이 상태에서 각각의 의상을 움직이거나 크기를 원하는대로 조정할 수 있습니다.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![머리에 외계인 안테나를 가진 남자의 이미지](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+이제 화살표 키를 계속 눌러서 의상을 계속 바꿔볼수도 있습니다.
+
+![다른 의상들을 입어보고 있는 남자의 움직이는 gif 이미지](images/costumes.gif)
 
 --- /task ---
 
