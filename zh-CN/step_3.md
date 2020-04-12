@@ -5,8 +5,8 @@
 现在您已经放置好眼镜，可以使用一些简单的按键来更改其样式。 将这些代码块添加到您的精灵中。
 
 ```blocks3
-当 按下 [右箭头v] 键
-下一个造型
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---
