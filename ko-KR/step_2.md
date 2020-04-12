@@ -1,72 +1,72 @@
-## Set up the stage
+## 스테이지 설정
 
 --- task ---
 
-Open a new Scratch project.
+새로운 스크래치 프로젝트를 엽니다.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**온라인:** 에서 새로운 온라인 스크래치 프로젝트 [rpf.io/scratch-new](https://rpf.io/scratch-new) 열기
 
-**Offline:** open a new project in the offline editor.
+** 오프라인: ** 오프라인 편집기에서 새 프로젝트를 엽니다.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+스크래치 오프라인 편집기를 설치해야 할 경우 [rpf.io/scratchoff](https://rpf.io/scratchoff)에서 다운받을 수 있습니다.
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+새 프로젝트를 시작하려면 스프라이트가 필요합니다. 스프라이트를 사용하여 여러분의 이미지를 꾸며봅니다. **휴지통** 아이콘을 클릭하여 화면에 보이는 고양이 스프라이트를 삭제합니다.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![고양이 스프라이트의 휴지통 아이콘을 보여주는 이미지](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+**스프라이트 선택** 아이콘을 클릭하여 새 스프라이트를 만듭니다.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![확장 된 스프라이트 선택 아이콘을 보여주는 이미지](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+**패션** 버튼을 선택하고 스프라이트 중 하나를 선택합니다. 안경부터 시작해 보겠습니다.
 
-![image showing the add extension button](images/add-extension.png)
+![패션 스프라이트를 보여주는 이미지](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![안경 스프라이트를 보여주는 이미지](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+화면 왼쪽 아래에서 **추가 확장** 버튼을 클릭합니다.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![확장 기능 추가 버튼을 보여주는 이미지](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+메뉴에서 **비디오 감지** 애드온을 선택합니다.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![비디오 확장기능 라이브러리의 선택을 보여주는 이미지](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+웹 브라우저에서 팝업 창이 표시되면 브라우저에서 **웹캠에 대한 액세스를 허용**해주세요.
+
+![카메라 액세스 허용을 물어보는 브라우저 메시지를 보여주는 이미지](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+이제 스테이지에 여러분의 얼굴이 보입니다. 안경을 얼굴에 놓아 볼까요.
+
+![얼굴 위에 안경이 놓인 남자의 이미지](images/man-with-glasses.png)
 
 --- /task ---
 
