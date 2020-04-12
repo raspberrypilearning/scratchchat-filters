@@ -1,0 +1,17 @@
+---
+title: Фільтри для Скретч Чату
+hero_image: images/banner.png
+description: Додай класні фільтри та картинки до власних зображень
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-04-01"
+steps:
+  - title: Вступ
+  - title: Налаштуй сцену
+  - title: Як перемикати образи
+  - title: Подальше управління образами
+  - title: Додай кольоровий фільтр
+  - title: "Завдання: додай трохи випадковості"
+    challenge: true
+  - title: Що далі?

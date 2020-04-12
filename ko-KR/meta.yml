@@ -1,0 +1,17 @@
+---
+title: 스크래치 챗 필터
+hero_image: images/banner.png
+description: 자신의 이미지에 멋진 필터와 이미지 추가
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-04-01"
+steps:
+  - title: 소개
+  - title: 스테이지 설정
+  - title: 의상을 바꾸는 방법
+  - title: 설정 컨트롤 더보기
+  - title: 색상 필터 추가
+  - title: "도전 과제: 더 랜덤하게"
+    challenge: true
+  - title: 더 나아가기
