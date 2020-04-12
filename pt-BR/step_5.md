@@ -27,11 +27,11 @@ Em seguida, crie duas variáveis chamadas `cor do filtro`{:class="block3variable
 Para terminar seu projeto, use estas variáveis para alterar a aparência do filtro.
 
 ```blocks3
-quando bendeira verde for clicado
-mude vídeo (ligado v)
-sempre
-ajuste transparência do vídeo para (quantidade de filtro)
-defina o efeito [cor v] como (cor do filtro)
+when flag clicked
+turn video (on v)
+forever
+set video transparency to (filter amount)
+set [color v] effect to (filter colour)
 ```
 
 --- /task ---
