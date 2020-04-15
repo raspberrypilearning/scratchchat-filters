@@ -21,7 +21,7 @@ Druk op de pijl naar rechts op je toetsenbord om te zien hoe de bril van stijl v
 
 --- task ---
 
-Misschien wil je ook teruggaan naar een vorig kostuum met de pijl naar links. Om dit te doen moet je het `uiterlijk nummer`{:class="block3looks"} gebruiken en er `1` van aftrekken.
+Misschien wil je ook teruggaan naar een vorig uiterlijk met de pijl naar links. Om dit te doen moet je het `uiterlijk nummer`{:class="block3looks"} gebruiken en er `1` van aftrekken.
 
 ```blocks3
 when [left arrow v] key pressed
@@ -40,7 +40,7 @@ Om nog meer uiterlijken aan je sprite toe te voegen, klik je op het tabblad **Ui
 
 --- task ---
 
-Op het tabblad **Uiterlijken** kun je alle delen van een kostuum selecteren door de Ctrl-toets op je toetsenbord ingedrukt te houden en vervolgens op de letter A-toets te drukken. Je kunt elk uiterlijk vervolgens verplaatsen en het formaat ervan wijzigen, zodat ze op de juiste plaats staan.
+Op het tabblad **Uiterlijken** kun je alle delen van een uiterlijk selecteren door de Ctrl-toets op je toetsenbord ingedrukt te houden en vervolgens op de letter A-toets te drukken. Je kunt elk uiterlijk vervolgens verplaatsen en het formaat ervan wijzigen, zodat ze op de juiste plaats staan.
 
 ![afbeelding van man met buitenaardse antenne op zijn hoofd](images/alien-antenna.png)
 
