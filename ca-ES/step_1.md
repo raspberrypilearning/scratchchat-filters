@@ -1,8 +1,8 @@
-## Introduction
+## Introducció
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Vas a fer un projecte per afegir filtres i vestits ximples a la teva imatge de la pantalla.
 
-### What you will make
+### Què faràs
 
 --- no-print ---
 
