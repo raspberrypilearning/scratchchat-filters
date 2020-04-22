@@ -1,24 +1,24 @@
 ---
-title: ScratchChat filters
+title: Filtres ScratchChat
 hero_image: images/banner.png
-description: Add cool filters and images to images of yourself
+description: Afegeix filtres i objectes interessants a la teva imatge
 version: 4
 listed: false
 copyedit: false
 last_tested: "2020-04-01"
 steps:
   - 
-    title: Introduction
+    title: Introducció
   - 
-    title: Set up the stage
+    title: Configura l’escenari
   - 
-    title: How to switch costumes
+    title: Com canviar els vestits
   - 
-    title: More costume controls
+    title: Més controls del vestit
   - 
-    title: Add a colour filter
+    title: Afegeix un filtre de color
   - 
-    title: "Challenge: Add some randomness"
+    title: "Repte: Afegeix una mica d’atzar"
     challenge: true
   - 
-    title: What next?
+    title: I ara què ve?
