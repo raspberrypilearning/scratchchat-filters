@@ -6,47 +6,47 @@ Vas a fer un projecte per afegir filtres i vestits ximples a la teva imatge de l
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Fes servir les tecles de fletxa per canviar la mida del teu vestit i els control lliscants per canviar l'efecte de filtre. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Projecte acabat](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+títol: Què necessitaràs
 ---
 
-### Hardware
+### Maquinari
 
-+ A computer with a webcam
++ Un ordinador amb càmera web
 
-### Software
+### Programari
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 ( [en línia](http://rpf.io/scratchon) o [fora de línia](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+títol: Què aprendràs
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Com capturar vídeo a Scratch
+- Com canviar els efectes de color
+- Com canviar el vestit en prémer les tecles
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+títol: Informació addicional per educadors
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Si necessites imprimir aquest projecte, si us plau, utilitza la [versió per imprimir](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
 
 --- /collapse ---
