@@ -1,52 +1,52 @@
-## Introduction
+## Giriş
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+Ekrandaki görüntünüze filtreler ve komik kostümler eklemek için bir proje yapacaksınız.
 
-### What you will make
+### Ne yapacaksın
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+Kostümünüzün boyutunu değiştirmek için ok tuşlarını ve filtre efektini değiştirmek için kaydırıcıları kullanın. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![Projeyi tamamla](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+başlık: Neye ihtiyacınız olacak
 ---
 
-### Hardware
+### Donanım
 
-+ A computer with a webcam
++ Web kamerası olan bir bilgisayar
 
-### Software
+### Yazılım
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 ( [çevrimiçi](http://rpf.io/scratchon) veya [çevrimdışı](http://rpf.io/scratchoff))
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+başlık: Ne öğreneceksiniz
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- Scratch'ta video nasıl yakalanır
+- Renk efektleri nasıl değiştirilir
+- Tuşlara basarak kostümler nasıl değiştirilir
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+başlık: Eğitimciler için ek bilgiler
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+Bu projeyi yazdırmanız gerekiyorsa, lütfen [yazıcı dostu sürüm](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){: target = "_ blank"} kullanın.
 
 --- /collapse ---
