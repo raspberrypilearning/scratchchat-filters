@@ -2,7 +2,7 @@
 
 --- task ---
 
-Ahora que tienes las gafas colocadas, puedes usar algunas teclas simples para cambiar su estilo. Añade estos bloques de código a tu objeto.
+Ahora que tienes los lentes colocados, puedes usar algunas teclas simples para cambiar su estilo. Añade estos bloques de código a tu objeto.
 
 ```blocks3
 al presionar [flecha derecha v] 
@@ -13,7 +13,7 @@ siguiente disfraz
 
 --- task ---
 
-Intenta presionar la flecha derecha en tu teclado para ver cómo las gafas cambian de estilo.
+Intenta presionar la flecha derecha en tu teclado para ver cómo los lentes cambian de estilo.
 
 ![imagen de un hombre que lleva las gafas en forma de corazón](images/heart-glasses.png)
 
@@ -40,7 +40,7 @@ Para agregar más disfraces a tu objeto, haz clic en la pestaña **Disfraces** y
 
 --- task ---
 
-En la pestaña **Disfraces**, puedes seleccionar todas las partes de un disfraz manteniendo presionada la tecla Ctrl de tu teclado y luego presionando la tecla de la letra A. Después podás mover y cambiar el tamaño de cada disfraz para que estén en el lugar correcto.
+En la pestaña **Disfraces**, puedes seleccionar todas las partes de un disfraz manteniendo presionada la tecla Ctrl de tu teclado y luego presionando la tecla de la letra A. Después podrás mover y cambiar el tamaño de cada disfraz para que estén en el lugar correcto.
 
 ![imagen de un hombre con antena alienígena en la cabeza](images/alien-antenna.png)
 
