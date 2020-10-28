@@ -1,72 +1,72 @@
-## Set up the stage
+## Configura l’escenari
 
 --- task ---
 
-Open a new Scratch project.
+Crea un projecte nou de Scratch.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**En línia:** obre un projecte nou de Scratch en línia a [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
-**Offline:** open a new project in the offline editor.
+**Fora de línia:** obre un projecte nou a l’editor fora de línia.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+Si necessites descarregar i instal·lar l'editor fora de línia de Scratch, el pots trobar a [rpf.io/scratchoff](https://rpf.io/scratchoff).
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+Per començar el teu projecte nou necessites un personatge. Utilitza el personatge per decorar la imatge de tu mateix. Fes clic a la icona **Paperera** per esborrar el personatge del gat.
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![imatge que mostra la icona de la paperera del personatge del Gat](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+Crea un personatge nou fent clic a la icona **Tria un personatge**.
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![imatge que mostra la icona del personatge escollit](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+Selecciona el botó **Moda** i tria un dels personatges. Aquí començarem amb les ulleres.
 
-![image showing the add extension button](images/add-extension.png)
+![imatge que mostra els personatges de l'apartat moda](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![imatge que mostra el personatge de les ulleres](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+Fes clic al botó **Afegeix una extensió** de la part inferior esquerra de la pantalla.
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![imatge que mostra el botó d’extensió per afegir](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+Tria l'extensió **Detecció de vídeo** del menú que apareix.
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![imatge que mostra la selecció de la biblioteca d’extensions del vídeo](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+Si el navegador web pregunta, aleshores accepta **Permetre** que accedeixi a la teva càmera web.
+
+![imatge que mostra el missatge del navegador per permetre l’accés a la càmera](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+Ara t'hauries de veure tu mateix a l’escenari i pots situar les ulleres a la teva cara.
+
+![imatge que mostra un home amb ulleres superposades a la cara](images/man-with-glasses.png)
 
 --- /task ---
 
