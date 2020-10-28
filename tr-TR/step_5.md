@@ -1,30 +1,30 @@
-## Add a colour filter
+## Renk filtresi ekleme
 
-Now give your image a colour filter.
+Şimdi resminize bir renk filtresi verin.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+**Zemin** ikonuna tıklayın.
 
-![image showing stage icon](images/stage.png)
+![sahne ikonunu gösteren görüntü](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+**Zeminler** sekmesinden **Bitmap'e Çevir** butonuna tıklayın. **Boya Kovası** aracını zemini tek bir renk ile doldurmak için kullanın.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![zemini renklendirilmiş sahne görüntüsü](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+Sonrasında, `renk filtresi`{:class="block3variables"} ve `filtre oranı`{:class="block3variables"} isminde iki adet değişken tanımlayın. Sahne üzerinde bu değişkenlere sağ tıklayarak ikisinin de birer **kaydırıcı** türünde olmasını sağlayabilirsiniz.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![değişkenlerin kaydırıcılar ile değişiminin görüntüsü](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Projeyi bitirmek için, tanımladığınız bu değişkenleri kullanarak filtrenin görünümünü değiştirin.
 
 ```blocks3
 when flag clicked
@@ -38,7 +38,7 @@ set [color v] effect to (filter colour)
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Şimdi kaydırıcıların hareket ettirerek efektin resminiz üzerindeki etkisini görebilirsiniz.
 
 --- /task ---
 
