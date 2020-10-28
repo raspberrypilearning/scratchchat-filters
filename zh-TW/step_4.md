@@ -1,10 +1,10 @@
-## More costume controls
+## 控制更多造型
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+您可以添加控制項目來更改精靈的大小，還可以決定要顯示還是隱藏圖像。
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+添加這些代碼塊使精靈顯示或消失。
 
 ```blocks3
 when [s v] key pressed
@@ -18,7 +18,7 @@ hide
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+現在添加更多代碼塊快來更改造型的大小。
 
 ```blocks3
 when [up arrow v] key pressed
@@ -32,15 +32,15 @@ change size by (-10)
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+看看是否可以添加更多控制項目來更改精靈的位置。
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+使用您喜歡的任意鍵通過 `更改x座標`{:class="block3motion"} 和`更改y座標`{:class="block3motion"} 來更改精靈的位置
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+這是能讓精靈往左的兩個代碼塊。
 
 ```blocks3
 change x by (-10)
@@ -49,7 +49,7 @@ when [j v] key pressed
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+這是您需要的所有代碼，但請為精靈選擇您想要的按鍵。
 
 ```blocks3
 when [j v] key pressed
