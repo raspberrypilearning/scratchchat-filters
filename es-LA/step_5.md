@@ -16,7 +16,7 @@ Usa la pestaña **Fondos** para **Convertir a mapa de bits**. Luego usa la herra
 
 --- task ---
 
-A continuación, crea dos variables llamadas `filtro color`{:class="block3variables"} y `filtro cantidad`{:class="block3variables"}. En el escenario, puedes hacer clic derecho en estas variables y configurarlas para que sean **deslizadores**.
+A continuación, crea dos variables llamadas `filtro color`{:class="block3variables"} y `filtro cantidad`{:class="block3variables"}. En el escenario, puedes hacer clic derecho con el ratón o trackpad en estas variables y configurarlas para que sean **deslizadores**.
 
 ![imagen que muestra las variables que se están cambiando por deslizadores](images/sliders.png)
 
