@@ -1,52 +1,52 @@
-## Introduction
+## 介紹
 
-You're going to make a project to add filters and silly costumes to your image on the screen.
+您將要建立一個專案，為螢幕上的圖像添加濾鏡和可愛的造型。
 
-### What you will make
+### 您將會製作出
 
 --- no-print ---
 
-Use the arrow keys to change the size of your costume, and the sliders to change the filter effect. <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
+使用方向鍵更改造型的樣子，使用滑動鍵更改濾鏡效果。 <iframe src="https://scratch.mit.edu/projects/381995604/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen mark="crwd-mark"></iframe>
 
 --- /no-print ---
 
 --- print-only ---
 
-![Complete project](images/final.png)
+![完成的專案](images/final.png)
 
 --- /print-only ---
 
 --- collapse ---
 ---
-title: What you will need
+標題: 您會需要用到
 ---
 
-### Hardware
+### 硬體
 
-+ A computer with a webcam
++ 帶有攝影鏡頭的電腦
 
-### Software
+### 軟體
 
-+ Scratch 3.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
++ Scratch 3.0（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+標題: 您會學到什麼
 ---
 
-- How to capture video in Scratch
-- How to change colour effects
-- How to change costumes with key presses
+- 如何在Scratch中擷取視頻
+- 如何改變色彩效果
+- 如何通過按鍵更換造型
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Additional information for educators
+標題: 給教師的額外資訊
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){:target="_blank"}.
+如果您需要列印此專案內容，請下載 [列印友善版本](https://projects.raspberrypi.org/en/projects/scratchchat-filters/print){：target =“_ blank”}。
 
 --- /collapse ---
