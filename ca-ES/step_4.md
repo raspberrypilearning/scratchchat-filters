@@ -1,68 +1,68 @@
-## More costume controls
+## Més controls del vestit
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Ara pots afegir controls per canviar la mida del personatge i també decidir si la imatge es mostra o s'amaga.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Afegeix aquests blocs per fer que aparegui i desaparegui el personatge.
 
 ```blocks3
-when [s v] key pressed
-show
+quan la tecla [m v] es premi
+mostra't
 
-when [h v] key pressed
-hide
+quan la tecla [a v] es premi
+amaga't
 ```
 
 --- /task ---
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Afegeix ara uns quants blocs més per canviar la mida del vestit.
 
 ```blocks3
-when [up arrow v] key pressed
-change size by (10)
+quan la tecla [fletxa amunt v] es premi
+augmenta (10) la mida
 
-when [down arrow v] key pressed
-change size by (-10)
+quan la tecla [fletxa avall v] es premi
+augmenta (-10) la mida
 ```
 
 --- /task ---
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Mira si pots afegir alguns controls més per canviar la posició del personatge.
 
 --- hints --- --- hint ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Utilitza les tecles que vulguis per augmentar o disminuir la posició del personatge mitjançant els blocs `auma a x`{:class="block3motion"} i `suma a y`{:class="block3motion"}
 
 --- /hint --- --- hint ---
 
-Here are two blocks that move the sprite left.
+A continuació, es mostren dos blocs que mouen el personatge cap a l'esquerra.
 
 ```blocks3
-change x by (-10)
-when [j v] key pressed
+suma (-10) a x
+quan la tecla [j v] es premi
 ```
 
 --- /hint --- --- hint ---
 
-Here is all the code you need, but choose any keys you want for your sprite.
+Aquí tens tot el codi que necessites, però tria les tecles que vulguis pel teu personatge.
 
 ```blocks3
-when [j v] key pressed
-change x by (-10)
+quan la tecla [j v] es premi
+suma (-10) a x
 
-when [l v] key pressed
-change x by (10)
+quan la tecla [l v] es premi
+suma (10) a x
 
-when [o v] key pressed
-change y by (10)
+quan la tecla [o v] es premi
+suma (10) a y
 
-when [k v] key pressed
-change y by (-10)
+quan la tecla [k v] es premi
+suma (-10) a y
 ```
 
 --- /hint --- --- /hints ---
