@@ -1,72 +1,72 @@
-## Set up the stage
+## 設置舞台
 
 --- task ---
 
-Open a new Scratch project.
+建立一個新的 Scratch 專案。
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**在線版：** 在 [rpf.io/scratch-new](https://rpf.io/scratch-new)處打開一個新的在線Scratch專案。
 
-**Offline:** open a new project in the offline editor.
+**離線版：**在離線編輯器的工作列中開啟選單並點擊新建專案。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff).
+如果你需要下載並安裝 Scratch 離線版編輯器，可以到 [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}取得。
 
 --- /task ---
 
 --- task ---
 
-To begin your new project you need a sprite. You'll use the sprite to decorate the image of yourself. Click on the **Trash** icon to delete the current cat sprite.
+要開始新專案，您需要一個精靈。 您將使用精靈來裝飾自己的形象。 點擊 **垃圾桶** 圖標來刪除當前的貓咪精靈。
 
-![image showing trash icon on Cat sprite](images/delete-sprite.png)
-
---- /task ---
-
---- task ---
-
-Create a new sprite by clicking on the **Choose a Sprite** icon.
-
-![image showing the expanded choose sprite icon](images/new-sprite.png)
+![在貓咪精靈上顯示的垃圾桶圖標](images/delete-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Select the **Fashion** button and choose one of the sprites. Here we'll start with the glasses.
+通過單擊 **選擇一個精靈** 圖標創建一個新的精靈。
 
-![image showing fashion sprites](images/fashion.png)
-
-![image showing the glasses sprite](images/glasses.png)
+![該圖顯示了展開後的精靈圖標](images/new-sprite.png)
 
 --- /task ---
 
 --- task ---
 
-Click on the **Add Extension** button in the bottom left-hand corner of the screen.
+選擇 **時尚** 按鈕，然後選擇其中一個精靈。 我們將從眼鏡開始。
 
-![image showing the add extension button](images/add-extension.png)
+![該圖顯示了時尚分類下的精靈](images/fashion.png)
 
---- /task ---
-
---- task ---
-
-Choose the **Video Sensing** add-on from the menu provided.
-
-![image showing the selection of the video extension library](images/video-extension.png)
+![該圖顯示了眼鏡精靈](images/glasses.png)
 
 --- /task ---
 
 --- task ---
 
-If you are prompted by your web browser, then **Allow** it access to your webcam.
+點擊螢幕左下角的**添加擴展**按鈕。
 
-![image showing browser prompt to allow access to the camera](images/allow-camera.png)
+![該圖顯示了添加擴展按鈕](images/add-extension.png)
 
 --- /task ---
 
 --- task ---
 
-You should now be able to see yourself on the stage, and you can position the glasses over your face.
+從提供的目錄中選擇 **影像感應** 插件。
 
-![image showing a man with glasses superimposed over his face](images/man-with-glasses.png)
+![該圖顯示了視頻擴展庫的選擇](images/video-extension.png)
+
+--- /task ---
+
+--- task ---
+
+如果您的瀏覽器提示您，則 **允許** 它訪問您的網絡攝像頭。
+
+![該圖顯示了瀏覽器提示以允許訪問相機](images/allow-camera.png)
+
+--- /task ---
+
+--- task ---
+
+現在，您應該可以在舞台上看到自己了，並且可以將眼鏡放在臉上。
+
+![該圖顯示了一個臉上戴著眼鏡的男人](images/man-with-glasses.png)
 
 --- /task ---
 
