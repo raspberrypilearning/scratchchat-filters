@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## 挑戰：增加一些隨機性
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+您可以在濾鏡中添加隨機按鈕嗎？ 或許當精靈被點擊時 `濾鏡顏色`{:class="block3variables"} 和 `濾鏡數值`{:class="block3variables"}會被隨機更改，造型也會被隨機選擇。
