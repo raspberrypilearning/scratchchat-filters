@@ -1,3 +1,3 @@
-## Challenge: Add some randomness
+## Repte: Afegeix una mica d’atzar
 
-Can you add a random button to your filters? Maybe when a sprite is clicked the `filter colour`{:class="block3variables"} and the `filter amount`{:class="block3variables"} are randomly changed and a random costume is picked.
+Pots afegir un botó d'atzar als teus filtres? Com per exemple quan es faci clic en un personatge que el `color del filtre`{:class="block3variables"} i la `quantitat de filtre`{:class="block3variables"} es canviïn aleatòriament i que el vestit es canviï també a l'atzar.
