@@ -1,56 +1,56 @@
-## How to switch costumes
+## Com canviar els vestits
 
 --- task ---
 
-Now that you have your glasses positioned, you can use some simple key presses to change their style. Add these code blocks to your sprite.
+Ara que tens les ulleres posicionades, pots fer servir algunes tecles senzilles per canviar-les d’estil. Afegeix aquests blocs de codi al teu personatge.
 
 ```blocks3
-when [right arrow v] key pressed
-next costume
+quan la tecla [fletxa dreta v] es premi
+següent vestit
 ```
 
 --- /task ---
 
 --- task ---
 
-Try pressing the right arrow key on your keyboard to see the glasses change style.
+Prova de prémer la tecla fletxa dreta del teclat per veure com les ulleres canvien d'estil.
 
-![image of a man wearing the heart shaped glasses](images/heart-glasses.png)
+![imatge d’un home que porta les ulleres en forma de cor](images/heart-glasses.png)
 
 --- /task ---
 
 --- task ---
 
-You might also want to get back to a previous costume using the left arrow key. To do this you need to use the `costume number`{:class="block3looks"} and subtract `1` from it.
+També és possible que vulguis tornar a un vestit anterior mitjançant la tecla de fletxa esquerra. Per fer-ho, has d'utilitzar el `número de vestit`{:class="block3looks"} i restar-ne `1`.
 
 ```blocks3
-when [left arrow v] key pressed
-switch costume to ((costume [number v]) - (1))
+quan la tecla [fletxa dreta v] es premi
+canvia el vestit a ((vestit [número v]) - (1))
 ```
 
 --- /task ---
 
 --- task ---
 
-To add some more costumes to your sprite, click on the **Costumes** tab and then on the **Choose a Costume** button in the bottom left-hand corner of the screen.
+Per afegir més vestits al teu personatge, fes clic a la pestanya **Vestits** i, a continuació, al botó **Tria un vestit** a la part inferior esquerra de la pantalla.
 
-![image showing the Choose a costume button with the menu opened](images/choose-costume.png)
-
---- /task ---
-
---- task ---
-
-In the **Costumes** tab, you can select all the parts of a costume by holding down the Ctrl key on your keyboard and then pressing the letter A key. You can then move and resize each costume so they are in the correct place.
-
-![image of man with alien antenna on his head](images/alien-antenna.png)
+![imatge que mostra el botó Tria un vestit amb el menú obert](images/choose-costume.png)
 
 --- /task ---
 
 --- task ---
 
-Now you can use the arrow keys to cycle through all your different costumes.
+A la pestanya **Vestits**, pots seleccionar totes les parts d’un vestit mantenint premuda la tecla Ctrl del teclat i, a continuació, prem la tecla A. A continuació, pots moure i canviar la mida de cada vestit perquè estiguin al lloc correcte.
 
-![animated gif of a man with different costumes on](images/costumes.gif)
+![imatge d'un home amb antena alienígena al cap](images/alien-antenna.png)
+
+--- /task ---
+
+--- task ---
+
+Ara pots fer servir les tecles de fletxa per anar per tots els teus diferents vestits.
+
+![gif animat d'un home amb diferents vestits](images/costumes.gif)
 
 --- /task ---
 
