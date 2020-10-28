@@ -4,7 +4,7 @@
 
 Abre un nuevo proyecto en Scratch.
 
-**En línea:** abre un nuevo proyecto de Scratch en línea en [rpf.io/scratch-new](https://rpf.io/scratch-new).
+**Online:** abre un nuevo proyecto de Scratch en línea en [rpf.io/scratch-new](https://rpf.io/scratch-new).
 
 **Offline**: abra un nuevo proyecto en el editor fuera de línea.
 
@@ -30,7 +30,7 @@ Crea un nuevo objeto haciendo clic en el icono **Elige un objeto**.
 
 --- task ---
 
-Selecciona el botón **Moda** y elige uno de los objetos. Empezaremos con las gafas.
+Selecciona el botón **Moda** y elige uno de los objetos. Empezaremos con los lentes.
 
 ![imagen mostrando objetos de moda](images/fashion.png)
 
@@ -64,7 +64,7 @@ Si tu navegador web te lo solicita, entonces **Permite** que acceda a tu cámara
 
 --- task ---
 
-Ahora deberías poder verte en el escenario, y podrás colocar las gafas sobre tu cara.
+Ahora deberías poder verte en el escenario, y podrás colocar los lentes sobre tu cara.
 
 ![imagen mostrando a un hombre con gafas superpuestas sobre su rostro](images/man-with-glasses.png)
 
