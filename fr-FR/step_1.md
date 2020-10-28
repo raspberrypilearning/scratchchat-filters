@@ -1,6 +1,6 @@
 ## Introduction
 
-Tu vas faire un projet pour ajouter des filtres et des costumes idiots sur toi à l'écran.
+Tu vas faire un projet pour ajouter des filtres et des costumes rigolos sur toi à l'écran.
 
 ### Ce que tu feras
 
