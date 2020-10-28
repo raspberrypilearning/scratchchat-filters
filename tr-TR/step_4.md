@@ -1,71 +1,70 @@
-## More costume controls
+## Daha fazla kostüm kontrolleri
 
-You can now add controls to change the size of the sprite and also decide if the image is shown or hidden.
+Artık spriteınızın boyutlarını değiştirmeyi sağlayacak kontroller ekleyebilir ve resmin görünüp görünmeyeceğine karar verebilirsiniz.
 
 --- task ---
 
-Add these blocks to make the sprite appear and disappear.
+Bu kod bloklarını spriteınızı görünürlüğü değiştirecek kontrolleri tanımlamak için ekleyin.
 
 ```blocks3
-when [s v] key pressed
-show
+[s v] tuşlarına basıldığında 
+göster
 
-when [h v] key pressed
-hide
+[h v] tuşlarına basıldığında
+gizle
 ```
 
 --- /task ---
 
 --- task ---
 
-Now add some more blocks to change the size of the costume.
+Buradaki kod bloklarını ise kostümün boyutlarını değiştirecek kontrolleri tanımlamak için ekleyin.
 
 ```blocks3
-when [up arrow v] key pressed
-change size by (10)
+[Yukarı Ok v] tuşlarına basıldığında boyutu (10) ile değiştir
 
-when [down arrow v] key pressed
-change size by (-10)
+
+[Aşağı Ok v] tuşlarına basıldığında boyutu (-10) ile değiştir
 ```
 
 --- /task ---
 
 --- task ---
 
-See if you can add some more controls to change the position of the sprite.
+Spriteın pozisyonunu değiştirebilecek kontrolleri tanımlayabiliyor olup olmadığınızı kontrol edin.
 
---- hints --- --- hint ---
+--- ipuçları --- --- ipuçları ---
 
-Use any keys you like to increase or decrease the sprite's position by using the `change x by`{:class="block3motion"} and `change y by`{:class="block3motion"} blocks
+Spriteın yerleşimini istediğiniz tuşlar ile değiştirmek için `change x by`{:class="block3motion"} ve `change y by`{:class="block3motion"} kod bloklarını kullanın
 
---- /hint --- --- hint ---
+--- /ipucu --- --- ipucu ---
 
-Here are two blocks that move the sprite left.
-
-```blocks3
-change x by (-10)
-when [j v] key pressed
-```
-
---- /hint --- --- hint ---
-
-Here is all the code you need, but choose any keys you want for your sprite.
+Spriteın sola kaydırılmasını sağlayan iki kod bloğu görülmektedir.
 
 ```blocks3
-when [j v] key pressed
-change x by (-10)
+[j v] tuşlarına basıldığında x 'i (-10) ile değiştir
 
-when [l v] key pressed
-change x by (10)
-
-when [o v] key pressed
-change y by (10)
-
-when [k v] key pressed
-change y by (-10)
 ```
 
---- /hint --- --- /hints ---
+--- /ipucu --- --- ipucu ---
+
+İhtiyacınız olan tüm kod buradadır, bir diğer yandan spriteınız için dilediğiniz tuşları seçebilirsiniz.
+
+```blocks3
+[j v] tuşlarına basıldığında 
+x' i (-10) ile değiştir
+
+[l v] tuşlarına basıldığında 
+x' i (10) ile değiştir
+
+[o v] tuşlarına basıldığında 
+y' i (10) ile değiştir
+
+[k v] tuşlarına basıldığında 
+x' i (-10) ile değiştir
+```
+
+--- /ipucu --- --- /ipuçları ---
 
 
 
