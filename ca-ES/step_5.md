@@ -1,44 +1,44 @@
-## Add a colour filter
+## Afegeix un filtre de color
 
-Now give your image a colour filter.
+Ara dóna a la teva imatge un filtre de color.
 
 --- task ---
 
-Click on the **Backdrop** icon.
+Fes clic a la icona **Fons**.
 
-![image showing stage icon](images/stage.png)
+![imatge que mostra la icona de l’escenari](images/stage.png)
 
-Use the **Backdrops** tab to **Convert to Bitmap**. Then use the **Paint bucket** tool to fill the backdrop with a single colour.
+Utilitza la pestanya **Fons** i **Converteix a mapa de bits**. A continuació, utilitza l'eina de pintura **Omple** per omplir el fons amb un sol color.
 
-![image showing the filled in backdrop for the stage](images/paint-bucket.png)
+![imatge que mostra el fons omplert amb el mateix color de l’escenari](images/paint-bucket.png)
 
 --- /task ---
 
 --- task ---
 
-Next, create two variables called `filter colour`{:class="block3variables"} and `filter amount`{:class="block3variables"}. On the stage you can right-click on these variables and set them both to be **sliders**.
+A continuació, crea dues variables anomenades `color del filtre` {:class="block3variables"} i `quantitat de filtre` {:class="block3variables"}. A l'escenari pots fer clic amb el botó dret del ratolí sobre aquestes variables i configurar-les com a **lliscadors**.
 
-![image showing the variables being changed to sliders](images/sliders.png)
+![imatge que mostra les variables que es canvien per lliscadors](images/sliders.png)
 
 --- /task ---
 
 --- task ---
 
-To finish off your project, use these variables to alter the look of the filter.
+Per finalitzar el teu projecte, utilitza aquestes variables per canviar l’aspecte del filtre.
 
 ```blocks3
-when flag clicked
-turn video (on v)
-forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+quan la bandera es cliqui
+posa vídeo (activa v)
+per sempre
+fixa la transparència del vídeo a (quantitat de filtre)
+fixa l'efecte [color v] a (color del filtre)
 ```
 
 --- /task ---
 
 --- task ---
 
-Now you can move the sliders to see the effect on your image.
+Ara pots moure els lliscadors per veure l'efecte a la teva imatge.
 
 --- /task ---
 
