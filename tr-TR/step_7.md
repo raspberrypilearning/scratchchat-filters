@@ -1,3 +1,3 @@
-## What next?
+## Sıradaki ne?
 
-Now that you've completed this project, have a look at some of our other [funny projects](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour).
+Bu projeyi tamamladığınıza göre, artık diğer [eğlenceli](https://projects.raspberrypi.org/en/projects?interests%5B%5D=humour) projelerimize bakabilirsiniz.
