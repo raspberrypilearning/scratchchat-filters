@@ -1,0 +1,17 @@
+---
+title: ScratchChat filtreleri
+hero_image: images/banner.png
+description: Kendinize ait görüntülere havalı filtreler ve resimler ekleyin
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-04-01"
+steps:
+  - title: Giriş
+  - title: Sahneyi ayarlayın
+  - title: Kostümler nasıl değiştirilir
+  - title: Daha fazla kostüm kontrolü
+  - title: Renk filtresi ekle
+  - title: "Meydan Okuma: Rastgele bir miktar ekleyin"
+    challenge: true
+  - title: Sırada ne var?
