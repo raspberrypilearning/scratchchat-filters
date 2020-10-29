@@ -22,7 +22,7 @@ Yeni projenize başlamak için bir Sprite'a ihtiyacınız var. Sprite'ı kendi g
 
 --- task ---
 
-**Bir Sprite Seçin** simgesine tıklayarak yeni bir Sprite oluşturun.
+**Bir Kukla Seç** simgesine tıklayarak yeni bir Sprite oluşturun.
 
 ![genişletilmiş sprite seçimini ekranını gösteren resim](images/new-sprite.png)
 
@@ -38,15 +38,15 @@ Yeni projenize başlamak için bir Sprite'a ihtiyacınız var. Sprite'ı kendi g
 
 --- /task ---
 
---- /task ---
+--- task ---
 
-Ekranın sol alt köşesindeki **Uzantı Ekle** düğmesine tıklayın.
+Ekranın sol alt köşesindeki **Eklenti Ekle** düğmesine tıklayın.
 
 ![uzantı ekle düğmesini gösteren resim](images/add-extension.png)
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 Verilen menüden **Video Algılama** eklentisini seçin.
 
@@ -54,7 +54,7 @@ Verilen menüden **Video Algılama** eklentisini seçin.
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 Web tarayıcınız tarafından web kameranıza erişim izni istenirse, **İzin Ver** düğmesine tıklayın.
 
@@ -62,7 +62,7 @@ Web tarayıcınız tarafından web kameranıza erişim izni istenirse, **İzin V
 
 --- /task ---
 
---- /task ---
+--- task ---
 
 Artık kendinizi sahnede görebilmeli ve gözlükleri yüzünüze yerleştirebilmelisiniz.
 

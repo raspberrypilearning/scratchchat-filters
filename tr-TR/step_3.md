@@ -24,7 +24,8 @@ Gözlüklerin stilini değiştirdiğini görmek için klavyenizdeki sağ ok tuş
 Sol ok tuşunu kullanarak önceki bir kostüme geri dönmek de isteyebilirsiniz. Bunu yapabilmek için `kostüm sayısından`{:class="block3looks"} `1` çıkarmanız gerekir.
 
 ```blocks3
-[sol ok v] tuşuna bastığınızda kostümünüzü ((costume [number v]) - (1)) ile değiştirin
+when [left arrow v] key pressed
+switch costume to ((costume [number v]) - (1))
 ```
 
 --- /task ---

@@ -1,4 +1,4 @@
-## Renk filtresi ekleme
+## Renk filtresi ekle
 
 Şimdi resminize bir renk filtresi verin.
 
@@ -8,7 +8,7 @@
 
 ![sahne ikonunu gösteren görüntü](images/stage.png)
 
-**Zeminler** sekmesinden **Bitmap'e Çevir** butonuna tıklayın. **Boya Kovası** aracını zemini tek bir renk ile doldurmak için kullanın.
+**Zeminler** sekmesinden **Bitmap'e Dönüştür** butonuna tıklayın. **Boya Kovası** aracını zemini tek bir renk ile doldurmak için kullanın.
 
 ![zemini renklendirilmiş sahne görüntüsü](images/paint-bucket.png)
 
@@ -30,8 +30,8 @@ Projeyi bitirmek için, tanımladığınız bu değişkenleri kullanarak filtren
 when flag clicked
 turn video (on v)
 forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+set video transparency to (filtre oranı)
+set [color v] effect to (renk filtresi)
 ```
 
 --- /task ---

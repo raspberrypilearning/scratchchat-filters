@@ -1,4 +1,4 @@
-## Daha fazla kostüm kontrolleri
+## Daha fazla kostüm kontrolü
 
 Artık spriteınızın boyutlarını değiştirmeyi sağlayacak kontroller ekleyebilir ve resmin görünüp görünmeyeceğine karar verebilirsiniz.
 
@@ -7,11 +7,11 @@ Artık spriteınızın boyutlarını değiştirmeyi sağlayacak kontroller ekley
 Bu kod bloklarını spriteınızı görünürlüğü değiştirecek kontrolleri tanımlamak için ekleyin.
 
 ```blocks3
-[s v] tuşlarına basıldığında 
-göster
+when [s v] key pressed
+show
 
-[h v] tuşlarına basıldığında
-gizle
+when [h v] key pressed
+hide
 ```
 
 --- /task ---
@@ -21,10 +21,11 @@ gizle
 Buradaki kod bloklarını ise kostümün boyutlarını değiştirecek kontrolleri tanımlamak için ekleyin.
 
 ```blocks3
-[Yukarı Ok v] tuşlarına basıldığında boyutu (10) ile değiştir
+when [up arrow v] key pressed
+change size by (10)
 
-
-[Aşağı Ok v] tuşlarına basıldığında boyutu (-10) ile değiştir
+when [down arrow v] key pressed
+change size by (-10)
 ```
 
 --- /task ---
@@ -35,15 +36,15 @@ Spriteın pozisyonunu değiştirebilecek kontrolleri tanımlayabiliyor olup olma
 
 --- hints --- --- hint ---
 
-Spriteın yerleşimini istediğiniz tuşlar ile değiştirmek için `change x by`{:class="block3motion"} ve `change y by`{:class="block3motion"} kod bloklarını kullanın
+Spriteın yerleşimini istediğiniz tuşlar ile değiştirmek için `x konumunu değiştir`{:class="block3motion"} ve `y konumunu değiştir`{:class="block3motion"} kod bloklarını kullanın
 
 --- /hint --- --- hint ---
 
 Spriteın sola kaydırılmasını sağlayan iki kod bloğu görülmektedir.
 
 ```blocks3
-[j v] tuşlarına basıldığında x 'i (-10) ile değiştir
-
+change x by (-10)
+when [j v] key pressed
 ```
 
 --- /hint --- --- hint ---
@@ -51,17 +52,17 @@ Spriteın sola kaydırılmasını sağlayan iki kod bloğu görülmektedir.
 İhtiyacınız olan tüm kod buradadır, bir diğer yandan spriteınız için dilediğiniz tuşları seçebilirsiniz.
 
 ```blocks3
-[j v] tuşlarına basıldığında 
-x' i (-10) ile değiştir
+when [j v] key pressed
+change x by (-10)
 
-[l v] tuşlarına basıldığında 
-x' i (10) ile değiştir
+when [l v] key pressed
+change x by (10)
 
-[o v] tuşlarına basıldığında 
-y' i (10) ile değiştir
+when [o v] key pressed
+change y by (10)
 
-[k v] tuşlarına basıldığında 
-x' i (-10) ile değiştir
+when [k v] key pressed
+change y by (-10)
 ```
 
 --- /hint --- --- /hints ---

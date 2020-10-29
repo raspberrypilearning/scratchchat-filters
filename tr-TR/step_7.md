@@ -1,4 +1,4 @@
-## Sıradaki ne?
+## Sırada ne var?
 
 Bu projeyi tamamladığınıza göre, artık diğer [eğlenceli](https://projects.raspberrypi.org/tr-TR/projects?interests%5B%5D=humour) projelerimize bakabilirsiniz.
 
