@@ -30,8 +30,8 @@
 when flag clicked
 turn video (on v)
 forever
-set video transparency to (filter amount)
-set [color v] effect to (filter colour)
+set video transparency to (濾鏡數值)
+set [color v] effect to (濾鏡顏色)
 ```
 
 --- /task ---

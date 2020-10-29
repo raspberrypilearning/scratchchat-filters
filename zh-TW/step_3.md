@@ -5,8 +5,8 @@
 現在您已經放置好眼鏡，可以使用一些簡單的按鍵來更改其樣式。 將這些代碼塊添加到您的精靈中。
 
 ```blocks3
-當[右箭頭v]鍵按下
-下一個造型
+when [right arrow v] key pressed
+next costume
 ```
 
 --- /task ---
