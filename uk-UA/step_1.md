@@ -29,7 +29,7 @@ title: Що тобі знадобиться
 
 ### Програмне забезпечення
 
-+ Скретч 3.0 ([онлайн](http://rpf.io/scratchon) або [офлайн](http://rpf.io/scratchoff))
++ Скретч 3.0 ([онлайн](https://rpf.io/scratchon) або [офлайн](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

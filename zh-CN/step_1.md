@@ -29,7 +29,7 @@ title: 你需要准备什么
 
 ### 软件部分
 
-+ Scratch 3.0 ([在线版本](http://rpf.io/scratchon)或[离线版本](http://rpf.io/scratchoff))
++ Scratch 3.0 ([在线版本](https://rpf.io/scratchon)或[离线版本](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

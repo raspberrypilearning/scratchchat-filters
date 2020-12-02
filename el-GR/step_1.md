@@ -29,7 +29,7 @@ title: Τι θα χρειαστείς
 
 ### Λογισμικό
 
-+ Scratch 3.0 (είτε [σε σύνδεση](http://rpf.io/scratchon) είτε [εκτός σύνδεσης](http://rpf.io/scratchoff))
++ Scratch 3.0 (είτε [σε σύνδεση](https://rpf.io/scratchon) είτε [εκτός σύνδεσης](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

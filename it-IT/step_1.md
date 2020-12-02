@@ -29,7 +29,7 @@ title: Cosa ti servirà
 
 ### Software
 
-+ Scratch 3.0 ([online](http://rpf.io/scratchon) o [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 ([online](https://rpf.io/scratchon) o [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

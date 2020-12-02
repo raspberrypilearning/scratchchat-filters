@@ -29,7 +29,7 @@ title: ما ستحتاج إليه
 
 ### البرامج
 
-+ برنامج Scratch 3.0 (سواء كان [عبر الإنترنت](http://rpf.io/scratchon) أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff))
++ برنامج Scratch 3.0 (سواء كان [عبر الإنترنت](https://rpf.io/scratchon) أو [دون اتصال بالإنترنت](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

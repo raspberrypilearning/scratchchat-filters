@@ -29,7 +29,7 @@ title: Wat heb je nodig
 
 ### Software
 
-+ Scratch 3.0 (of [online](http://rpf.io/scratchon) of [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (of [online](https://rpf.io/scratchon) of [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

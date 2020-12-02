@@ -29,7 +29,7 @@ title: Lo que necesitarás
 
 ### Software
 
-+ Scratch 3.0 ([en línea](http://rpf.io/scratchon) o [sin conexión](http://rpf.io/scratchoff))
++ Scratch 3.0 ([en línea](https://rpf.io/scratchon) o [sin conexión](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

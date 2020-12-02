@@ -29,7 +29,7 @@ title: 준비물
 
 ### 소프트웨어
 
-+ 스크래치 3.0 ([온라인](http://rpf.io/scratchon) 또는 [오프라인](http://rpf.io/scratchoff))
++ 스크래치 3.0 ([온라인](https://rpf.io/scratchon) 또는 [오프라인](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

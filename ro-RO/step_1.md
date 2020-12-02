@@ -29,7 +29,7 @@ title: De ce vei avea nevoie
 
 ### Software
 
-+ Scratch 3.0 (fie [online](http://rpf.io/scratchon) sau [offline](http://rpf.io/scratchoff))
++ Scratch 3.0 (fie [online](https://rpf.io/scratchon) sau [offline](https://rpf.io/scratchoff))
 
 --- /collapse ---
 

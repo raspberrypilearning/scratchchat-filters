@@ -29,7 +29,7 @@ title: 必要 (ひつよう) なもの
 
 ### ソフトウェア
 
-+ Scratch 3.0 ([オンライン](http://rpf.io/scratchon)または[オフライン](http://rpf.io/scratchoff))
++ Scratch 3.0 ([オンライン](https://rpf.io/scratchon)または[オフライン](https://rpf.io/scratchoff))
 
 --- /collapse ---
 
