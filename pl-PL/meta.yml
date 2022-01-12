@@ -5,13 +5,15 @@ description: Dodaj fajne filtry i obrazki do swoich zdjęć
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Wprowadzenie
-  - title: Przygotuj scenę
-  - title: Jak zmieniać kostiumy
-  - title: Więcej ustawień kostiumów
-  - title: Dodaj kolorowy filtr
-  - title: "Wyzwanie: Dodaj trochę losowości"
-    challenge: true
-  - title: Co dalej?
+- title: Wprowadzenie
+  completion: engaged
+- title: Przygotuj scenę
+- title: Jak zmieniać kostiumy
+- title: Więcej ustawień kostiumów
+  completion: internal
+- title: Dodaj kolorowy filtr
+- title: 'Wyzwanie: Dodaj trochę losowości'
+  challenge: true
+- title: Co dalej?

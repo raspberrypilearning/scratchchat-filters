@@ -5,13 +5,15 @@ description: Füge Bildern von dir coole Filter und Bilder hinzu
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Einleitung
-  - title: Bühne einrichten
-  - title: Wie man Kostüme wechselt
-  - title: Mehr Kostümsteuerung
-  - title: Farbfilter hinzufügen
-  - title: "Herausforderung: Füge etwas zufällig hinzu"
-    challenge: true
-  - title: Was kommt als Nächstes?
+- title: Einleitung
+  completion: engaged
+- title: Bühne einrichten
+- title: Wie man Kostüme wechselt
+- title: Mehr Kostümsteuerung
+  completion: internal
+- title: Farbfilter hinzufügen
+- title: 'Herausforderung: Füge etwas zufällig hinzu'
+  challenge: true
+- title: Was kommt als Nächstes?

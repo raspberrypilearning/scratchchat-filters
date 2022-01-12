@@ -5,13 +5,15 @@ description: Añade filtros e imágenes geniales a la tuya propia
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Introducción
-  - title: Prepara el escenario
-  - title: Cómo cambiar disfraces
-  - title: Más controles para los disfraces
-  - title: Añade un filtro de color
-  - title: "Desafío: Añade aleatoriedad"
-    challenge: true
-  - title: '¿Qué viene a continuación?'
+- title: Introducción
+  completion: engaged
+- title: Prepara el escenario
+- title: Cómo cambiar disfraces
+- title: Más controles para los disfraces
+  completion: internal
+- title: Añade un filtro de color
+- title: 'Desafío: Añade aleatoriedad'
+  challenge: true
+- title: "¿Qué viene a continuación?"

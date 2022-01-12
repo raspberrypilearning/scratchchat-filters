@@ -5,13 +5,15 @@ description: Добавь классные фильтры и картинки к
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Введение
-  - title: Подготавливаем сцену
-  - title: Как поменять костюмы
-  - title: Больше способов управления костюмами
-  - title: Добавляем цветовой фильтр
-  - title: "Задача: Добавь немного случайности"
-    challenge: true
-  - title: Что дальше?
+- title: Введение
+  completion: engaged
+- title: Подготавливаем сцену
+- title: Как поменять костюмы
+- title: Больше способов управления костюмами
+  completion: internal
+- title: Добавляем цветовой фильтр
+- title: 'Задача: Добавь немного случайности'
+  challenge: true
+- title: Что дальше?

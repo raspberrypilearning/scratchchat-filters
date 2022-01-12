@@ -5,13 +5,15 @@ description: 自分の画像 (がぞう) にかっこいいフィルターと画
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: はじめに
-  - title: ステージを作る
-  - title: コスチュームの切りかえ方
-  - title: コスチュームのコントロール
-  - title: 色フィルターを追加する
-  - title: "チャレンジ: ランダムにしてみよう"
-    challenge: true
-  - title: 次は何をしましょうか？
+- title: はじめに
+  completion: engaged
+- title: ステージを作る
+- title: コスチュームの切りかえ方
+- title: コスチュームのコントロール
+  completion: internal
+- title: 色フィルターを追加する
+- title: 'チャレンジ: ランダムにしてみよう'
+  challenge: true
+- title: 次は何をしましょうか？

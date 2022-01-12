@@ -1,16 +1,19 @@
+---
 title: ScratchChat filters
 hero_image: images/banner.png
 description: Add cool filters and images to images of yourself
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Introduction
-  - title: Set up the stage
-  - title: How to switch costumes
-  - title: More costume controls
-  - title: Add a colour filter
-  - title: "Challenge: Add some randomness"
-    challenge: true
-  - title: What next?
+- title: Introduction
+  completion: engaged
+- title: Set up the stage
+- title: How to switch costumes
+- title: More costume controls
+  completion: internal
+- title: Add a colour filter
+- title: 'Challenge: Add some randomness'
+  challenge: true
+- title: What next?

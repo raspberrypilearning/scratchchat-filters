@@ -5,13 +5,15 @@ description: Πρόσθεσε απίθανα φίλτρα και εικόνες 
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Εισαγωγή
-  - title: Ρύθμισε τη σκηνή
-  - title: Πώς να αλλάξεις ενδυμασία
-  - title: Περισσότερες ρυθμίσεις ενδυμασίας
-  - title: Πρόσθεσε ένα φίλτρο χρώματος
-  - title: "Πρόκληση: Πρόσθεσε κάποια τυχαιότητα"
-    challenge: true
-  - title: Και τώρα;
+- title: Εισαγωγή
+  completion: engaged
+- title: Ρύθμισε τη σκηνή
+- title: Πώς να αλλάξεις ενδυμασία
+- title: Περισσότερες ρυθμίσεις ενδυμασίας
+  completion: internal
+- title: Πρόσθεσε ένα φίλτρο χρώματος
+- title: 'Πρόκληση: Πρόσθεσε κάποια τυχαιότητα'
+  challenge: true
+- title: Και τώρα;

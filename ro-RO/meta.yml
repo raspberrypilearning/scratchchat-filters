@@ -5,13 +5,15 @@ description: Adaugă filtre și imagini cool la imaginile cu tine
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-04-01"
+last_tested: '2020-04-01'
 steps:
-  - title: Introducere
-  - title: Configurează scena
-  - title: Cum să schimbi costumele
-  - title: Mai multe controale pentru costumuri
-  - title: Adaugă un filtru pentru culoare
-  - title: "Provocare: mai multe posibilități"
-    challenge: true
-  - title: Ce urmează?
+- title: Introducere
+  completion: engaged
+- title: Configurează scena
+- title: Cum să schimbi costumele
+- title: Mai multe controale pentru costumuri
+  completion: internal
+- title: Adaugă un filtru pentru culoare
+- title: 'Provocare: mai multe posibilități'
+  challenge: true
+- title: Ce urmează?
